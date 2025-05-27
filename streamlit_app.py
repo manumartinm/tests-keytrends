@@ -24,9 +24,9 @@ def treemap(selected_value, df):
         values='count',
         color=size_col_name, 
         color_continuous_scale=[
-            treemap_colors['treemap_good'], 
+            treemap_colors['treemap_bad'],
             treemap_colors['treemap_middle'], 
-            treemap_colors['treemap_bad']
+            treemap_colors['treemap_good'], 
         ],
     )
     fig.update_traces(marker=dict(cornerradius=5), root_color="lightgrey")
