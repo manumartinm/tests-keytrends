@@ -5,6 +5,8 @@ import plotly.express as px
 df_full = pd.read_csv("data/grouped_matrix.csv")
 df_priority = pd.read_csv("data/priority.csv")
 
+df_priority['priority'] = df_priority['priority'].fillna(False)
+
 df_full = df_full[df_full['TA_score'] > 40]
 
 df_full = df_full.merge(df_priority, on='subcatg', how='left', suffixes=('', '_y'))
@@ -52,6 +54,7 @@ else:
     df_filtered = df_full
 
 print(df_filtered.shape)
+print(df_filtered[df_filtered['subcatg'] == 'Salud Pancreática']['priority'].unique())
 
 # Forzar refresco cuando cambie el checkbox
 if df_filtered.empty:

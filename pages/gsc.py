@@ -5,6 +5,8 @@ import plotly.express as px
 df_full = pd.read_csv("data/full_matrix.csv")
 df_priority = pd.read_csv("data/priority.csv")
 
+df_priority['priority'] = df_priority['priority'].fillna(False)
+
 df_full = df_full[df_full['TA_score'] > 40]
 
 df_full = df_full.merge(df_priority, on='subcatg', how='left', suffixes=('', '_y'))
