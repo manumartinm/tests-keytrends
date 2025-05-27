@@ -13,14 +13,15 @@ treemap_colors = {
 }
 
 def treemap(selected_value, df):
-    size_col_name = 'count'
+    size_col_name = 'TA_score'
     
     data_filtered = df.where(
         (df['TA_score'] >= selected_value[0]) & (df['TA_score'] <= selected_value[1])
     ).dropna()
 
     fig = px.treemap(
-        data_filtered, path=['catg', 'subcatg', 'entity'], values='TA_score',
+        data_filtered, path=['catg', 'subcatg', 'entity'], 
+        values='count',
         color=size_col_name, 
         color_continuous_scale=[
             treemap_colors['treemap_good'], 
