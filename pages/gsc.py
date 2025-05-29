@@ -89,16 +89,25 @@ if df_grouped.empty:
     st.warning("No hay datos que cumplan los filtros.")
     st.stop()
 
+if selected_metric == "Position":
+    colors = [
+        treemap_colors['treemap_good'],
+        treemap_colors['treemap_middle'],
+        treemap_colors['treemap_bad'],
+    ]
+else:
+    colors = [
+        treemap_colors['treemap_bad'],
+        treemap_colors['treemap_middle'],
+        treemap_colors['treemap_good'],
+    ]
+
 fig = px.treemap(
     df_grouped,
     path=['catg', 'subcatg', 'query'],
     values='metric_scaled',
     color=metric_column,
-    color_continuous_scale=[
-        treemap_colors['treemap_bad'],
-        treemap_colors['treemap_middle'],
-        treemap_colors['treemap_good']
-    ],
+    color_continuous_scale=colors,
     title=f"Treemap filtrado por {selected_metric}"
 )
 fig.update_traces(marker=dict(cornerradius=5), root_color="lightgrey")

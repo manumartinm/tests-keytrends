@@ -31,6 +31,7 @@ treemap_colors = {
     "treemap_bad": "#ef4444",
 }
 
+
 def treemap(selected_value, df):
     size_col_name = 'TA_score'
 
