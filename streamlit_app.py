@@ -7,6 +7,7 @@ from sklearn.preprocessing import MinMaxScaler
 df_full = pd.read_csv("data/grouped_matrix.csv")
 df_priority = pd.read_csv("data/priority.csv")
 
+df_full['priority'] = df_full['priority'].fillna(False)
 df_priority['priority'] = df_priority['priority'].astype('boolean').fillna(False)
 
 agg_column = 'count'
