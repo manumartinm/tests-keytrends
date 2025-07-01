@@ -1,1050 +1,538 @@
-entity,catg,subcatg,TA_score,count
-5star,Used,Comparative Analysis of Vehicle Types,51.56,4
-a-segment,Car Finance Explained,Insurance and Warranty Integration,52.7,5
-accessibility,Car Finance Explained,Financing for Special Circumstances,62.3,20
-accident,Car Finance Explained,Insurance and Warranty Integration,59.16,10
-accrued interest,Motorbike Finance,Comprehensive Motorbike Financing,57.53,38
-accuracy and precision,Bad Credit,Credit Score Dynamics in Automotive Loans,50.9,81
-acid,Car Finance Locations,Car Finance Accessibility,60.56,1
-acre,Car Finance Explained,Financing for Special Circumstances,36.2,3
-adaptive cruise control,Car Finance Explained,Financing for Special Circumstances,54.25,2
-advanced driver-assistance system,Car Finance Explained,Financing for Special Circumstances,48.38,1
-advertising,Car Finance Explained,Approval and Application Processes,64.44,5
-africa,Car Finance Explained,Vehicle Exchange Protocols,36.4,2
-african buffalo,Car Finance Explained,Vehicle Exchange Protocols,55.8,2
-air conditioning,Car Finance Explained,Financing for Special Circumstances,54.25,14
-air pollution,Car Finance Explained,Financing for Special Circumstances,67.8,3
-airbag,Van Finance,Van Aesthetic Classification,71.25,14
-alfa romeo,Car Finance Explained,Approval and Application Processes,53.53,1
-alfa romeo giulia (2015),Car Finance Explained,Approval and Application Processes,74.1,1
-alhambra,Car Finance Explained,Vehicle Exchange Protocols,50.6,6
-alloy,Car Finance Explained,Financing for Special Circumstances,47.62,5
-alloy wheel,Car Finance Explained,Financing for Special Circumstances,53.1,5
-alternative fuel,Car Finance Explained,Financing for Special Circumstances,58.84,1
-alternative fuel vehicle,Car Finance Explained,Financing for Special Circumstances,62.8,1
-alternator (automotive),Car Finance Explained,Insurance and Warranty Integration,79.2,1
-aluminium,Used,Economical Choices in Used Automobiles,44.2,1
-amc gremlin,Car Finance Explained,Insurance and Warranty Integration,69.1,2
-analgesic,Car Finance Explained,Financing for Special Circumstances,33.84,1
-andré citroën,Car Finance Explained,Insurance and Warranty Integration,61.75,1
-angle,Car Finance Explained,Financing for Special Circumstances,36.34,6
-annual percentage rate,Bad Credit,Credit Assessment and Vehicle Acquisition,94.06,7
-annualcreditreport.com,Bad Credit,Credit Score Dynamics in Automotive Loans,62.9,81
-anti-lock braking system,Vauxhall,Corsa Interior Features,74.0,2
-apnea,Car Finance Explained,Financing for Special Circumstances,40.2,1
-apple inc.,Car Finance Explained,Approval and Application Processes,54.8,1
-apprenticeship,Car Finance Explained,Financing for Special Circumstances,71.6,35
-argentina national rugby union team,Car Finance Explained,Financing for Special Circumstances,32.6,1
-armrest,Car Finance Explained,Financing for Special Circumstances,39.47,1
-arrears,Refinance My Car,Settlement and Termination Processes,57.3,44
-arrow,Car Finance Locations,Traffic Sign Interpretation,49.38,87
-arthralgia,Car Finance Explained,Financing for Special Circumstances,35.62,1
-arthritis,Car Finance Explained,Financing for Special Circumstances,42.38,1
-asset,Value My Car,Financial Implications of Equity,50.9,18
-association football,Car Finance Explained,Approval and Application Processes,51.4,1
-association of optometrists,Car Finance Explained,Insurance and Warranty Integration,45.28,10
-aston martin,Car Finance Explained,Approval and Application Processes,62.72,1
-aston martin db11,Car Finance Explained,Approval and Application Processes,68.7,1
-attention,Car Finance Explained,Approval and Application Processes,54.97,5
-audi,Car Finance Explained,Vehicle Exchange Protocols,54.62,19
-audi a1,Audi,Financing Options,32.38,2
-audi a3,Audi,Financing Options,48.38,3
-audi a4,Used,Comparative Analysis of Vehicle Types,56.2,2
-audi q3,Audi,Financing Options,37.44,2
-audi q7,Car Finance Explained,Vehicle Exchange Protocols,55.72,10
-audi quattro,Used,Economical Choices in Used Automobiles,59.53,1
-auto express,Car Finance Explained,Approval and Application Processes,48.3,1
-automated emergency braking system,Car Finance Explained,Financing for Special Circumstances,54.9,1
-automatic transmission,Car Finance Explained,Financing for Special Circumstances,61.12,4
-automobile dacia,Car Finance Explained,Financing for Special Circumstances,54.1,1
-automotive industry,Car Finance Explained,Insurance and Warranty Integration,47.1,7
-automotive lighting,Used,Comparative Analysis of Vehicle Types,67.06,3
-automotive safety,Vauxhall,Corsa Interior Features,77.94,1
-average,Car Finance Explained,Financing for Special Circumstances,61.8,25
-b-segment,Car Finance Explained,Vehicle Exchange Protocols,82.5,7
-baboon,Car Finance Explained,Vehicle Exchange Protocols,42.03,2
-baby transport,Used,Economical Choices in Used Automobiles,48.53,2
-backspace,Car Finance Explained,Approval and Application Processes,56.88,1
-backup,Bad Credit,Specialized Financing for Disability Benefits,46.3,16
-backup camera,Car Finance Explained,Financing for Special Circumstances,52.62,1
-badge,Used,Economical Choices in Used Automobiles,48.53,21
-baggage,Used,Economical Choices in Used Automobiles,58.72,17
-baking,Car Finance Explained,Approval and Application Processes,51.1,1
-ball,Bad Credit,Accessibility of Vehicle Financing,43.9,7
-balloon payment mortgage,Car Finance Explained,Insurance and Warranty Integration,72.4,323
-bank,Bad Credit,Financial Instruments for Adverse Credit,60.1,279
-bank account,Car Finance Explained,Approval and Application Processes,55.6,5
-bank statement,Bad Credit,Financial Instruments for Adverse Credit,58.72,98
-bankruptcy,Bad Credit,Accessibility of Vehicle Financing,73.9,47
-bankruptcy discharge,Bad Credit,Accessibility of Vehicle Financing,58.62,5
-barbie,Car Finance Explained,Approval and Application Processes,55.53,1
-bargaining,Refinance My Car,Settlement and Termination Processes,61.0,36
-"bath, somerset",Car Finance Explained,Financing for Special Circumstances,46.25,1
-battery electric vehicle,Car Finance Locations,Vehicle Accessibility Options,48.97,2
-behavior,Bad Credit,Financial Instruments for Adverse Credit,40.3,7
-bentley,Car Finance Explained,Approval and Application Processes,66.1,1
-bentley continental,Car Finance Explained,Approval and Application Processes,45.9,1
-bentley continental gt,Car Finance Explained,Approval and Application Processes,66.5,1
-best buy,Car Finance Explained,Approval and Application Processes,36.44,1
-bicycle,Car Finance Locations,Vehicle Accessibility Options,44.97,2
-bicycle handlebar,Motorbike Finance,Comprehensive Motorbike Financing,83.2,2
-big cat,Car Finance Explained,Vehicle Exchange Protocols,48.0,2
-birmingham,Car Finance Explained,Financing for Special Circumstances,45.03,1
-bit,Bad Credit,Financial Instruments for Adverse Credit,51.03,55
-black box,Car Finance Explained,Insurance and Warranty Integration,57.44,3
-blackbuck,Car Finance Explained,Vehicle Exchange Protocols,45.03,2
-blog,Car Finance Locations,Traffic Sign Interpretation,53.97,178
-bluemotion,Van Finance,Van Aesthetic Classification,60.1,12
-bluetooth,Van Finance,Van Aesthetic Classification,55.53,13
-bmw,Motorbike Finance,Comprehensive Motorbike Financing,51.97,22
-bmw 3 series,Car Finance Explained,Approval and Application Processes,52.16,3
-bmw 5 series,Car Finance Explained,Approval and Application Processes,46.6,1
-bmw finance,BMW,Financial Institution Insights,41.88,3
-bmw i8,Car Finance Explained,Approval and Application Processes,76.7,1
-bmw x5,Car Finance Explained,Financing for Special Circumstances,46.3,1
-body kit,Vauxhall,Corsa Interior Features,59.53,1
-boot,Car Finance Explained,Approval and Application Processes,51.25,1
-bottle,Car Finance Locations,Car Finance Accessibility,60.4,1
-bouncer,Used,Economical Choices in Used Automobiles,46.38,1
-box,Car Finance Explained,Approval and Application Processes,32.9,1
-boyfriend,Car Finance Explained,Approval and Application Processes,41.53,1
-bracket,Car Finance Explained,Financing for Special Circumstances,31.16,1
-bradford,Car Finance Explained,Financing for Special Circumstances,42.9,1
-brake,Car Finance Explained,Insurance and Warranty Integration,53.44,18
-brake pad,Car Finance Explained,Insurance and Warranty Integration,79.3,1
-brand,Motorbike Finance,Comprehensive Motorbike Financing,59.25,10
-bridge,Car Finance Locations,Traffic Sign Interpretation,58.3,87
-brighton,Used,Economical Choices in Used Automobiles,34.94,1
-bristol,Car Finance Explained,Financing for Special Circumstances,46.8,1
-british parking association,Car Finance Explained,Approval and Application Processes,72.56,1
-broker,Bad Credit,Financial Instruments for Adverse Credit,46.8,44
-bucket,Car Finance Locations,Car Finance Accessibility,50.62,1
-buckinghamshire,Car Finance Explained,Vehicle Exchange Protocols,38.38,2
-budget,Car Finance Explained,Insurance and Warranty Integration,53.1,132
-bus,Car Finance Explained,Financing for Special Circumstances,37.97,7
-business model,Bad Credit,Financial Instruments for Adverse Credit,54.3,10
-button,Car Finance Explained,Vehicle Exchange Protocols,45.8,10
-cachet,Van Finance,Van Aesthetic Classification,53.1,12
-calculation,Value My Car,Financial Implications of Equity,44.25,7
-calculator,Value My Car,Financial Implications of Equity,53.9,96
-camera,Car Finance Explained,Financing for Special Circumstances,50.28,4
-campervan,Caravan Finance,Long-Term Caravan Financing,44.44,1
-cant (road and rail),Car Finance Explained,Vehicle Exchange Protocols,51.0,1
-car,Car Finance Explained,Cooling-Off Period Regulations,59.2,1100
-car classification,Car Finance Explained,Financing for Special Circumstances,50.9,1
-car dealership,Bad Credit,Financial Instruments for Adverse Credit,65.75,84
-car dealerships in the united states,Refinance My Car,Settlement and Termination Processes,79.6,62
-car finance,Car Finance Explained,Cooling-Off Period Regulations,67.94,983
-car of the year,Used,Comparative Analysis of Vehicle Types,42.1,2
-car ownership,Car Finance Explained,Financing for Special Circumstances,42.56,5
-car suspension,Used,Economical Choices in Used Automobiles,63.6,98
-caravan (trailer),Car Finance Explained,Financing for Special Circumstances,48.56,2
-carbon,Car Finance Explained,Financing for Special Circumstances,43.8,1
-carbon dioxide,Car Finance Explained,Financing for Special Circumstances,47.97,4
-caregiver,Car Finance Explained,Financing for Special Circumstances,65.2,22
-carer's allowance,Bad Credit,Specialized Financing for Disability Benefits,53.16,5
-carfinance,Bad Credit,Financial Instruments for Adverse Credit,44.1,2
-carfinance247,Car Finance Explained,Approval and Application Processes,46.9,9
-cargo,Car Finance Explained,Approval and Application Processes,40.3,1
-carnivore,Car Finance Explained,Vehicle Exchange Protocols,39.16,2
-carplay,Car Finance Explained,Approval and Application Processes,59.8,1
-cash,Value My Car,Financial Implications of Equity,63.12,79
-cat,Car Finance Explained,Approval and Application Processes,47.8,6
-cd player,Vauxhall,Corsa Interior Features,65.4,1
-chair,Car Finance Explained,Vehicle Exchange Protocols,57.56,9
-charging station,Car Finance Explained,Financing for Special Circumstances,53.56,2
-charitable organization,Bad Credit,Specialized Financing for Disability Benefits,61.53,7
-charlotte crosby,Car Finance Explained,Approval and Application Processes,62.2,1
-chartered trading standards institute,Car Finance Explained,Insurance and Warranty Integration,77.6,1
-checklist,Motorbike Finance,Comprehensive Motorbike Financing,66.8,2
-cheetah,Car Finance Explained,Vehicle Exchange Protocols,48.03,2
-chemical substance,Car Finance Explained,Financing for Special Circumstances,45.56,1
-cherokee,Car Finance Explained,Financing for Special Circumstances,35.72,1
-child,Car Finance Locations,Traffic Sign Interpretation,50.62,133
-child protection,Vauxhall,Corsa Interior Features,55.7,1
-child safety seat,Car Finance Explained,Financing for Special Circumstances,60.47,5
-christmas,Car Finance Locations,Vehicle Accessibility Options,32.9,2
-citroën,Car Finance Explained,Insurance and Warranty Integration,68.1,22
-citroën berlingo,Van Finance,Van Aesthetic Classification,67.9,12
-citroën c1,Car Finance Explained,Insurance and Warranty Integration,70.6,3
-citroën c4,Car Finance Explained,Vehicle Exchange Protocols,60.28,7
-citroën c4 picasso,Car Finance Explained,Vehicle Exchange Protocols,55.7,6
-classic car,Used,Financing Mechanisms for Older Models,74.3,24
-clean air zone,Car Finance Explained,Financing for Special Circumstances,42.12,2
-cleaning agent,Car Finance Locations,Car Finance Accessibility,90.6,1
-cliché,Car Finance Explained,Approval and Application Processes,54.62,5
-climate,Car Finance Explained,Financing for Special Circumstances,46.2,5
-climate change,Car Finance Explained,Financing for Special Circumstances,58.56,1
-clock,Used,Financing Mechanisms for Older Models,55.97,26
-clutch,Car Finance Explained,Insurance and Warranty Integration,74.06,2
-cmax (pharmacology),Car Finance Explained,Vehicle Exchange Protocols,44.44,6
-cockpit,Car Finance Explained,Financing for Special Circumstances,43.62,1
-coffee,Car Finance Explained,Approval and Application Processes,35.56,1
-coffee cup,Car Finance Explained,Approval and Application Processes,43.9,1
-colchester,Car Finance Explained,Insurance and Warranty Integration,41.7,10
-collateral (finance),Caravan Finance,Long-Term Caravan Financing,57.03,1
-collision,Car Finance Explained,Financing for Special Circumstances,31.95,1
-collision avoidance system,Car Finance Explained,Financing for Special Circumstances,64.3,1
-commercial vehicle,Van Finance,Van Aesthetic Classification,58.88,12
-communication,Bad Credit,Accessibility of Vehicle Financing,48.25,6
-compact city,Car Finance Explained,Insurance and Warranty Integration,55.0,5
-compact van,Van Finance,Financing Options for Vans,49.3,2
-company,Car Finance Explained,Cooling-Off Period Regulations,48.47,316
-complexity,Car Finance Explained,Approval and Application Processes,53.38,18
-computer,Vauxhall,Corsa Interior Features,58.9,1
-concept car,Car Finance Explained,Approval and Application Processes,33.7,2
-confidence,Car Finance Explained,Insurance and Warranty Integration,52.47,57
-consent,Bad Credit,Financial Instruments for Adverse Credit,44.16,7
-consideration,Car Finance Explained,Approval and Application Processes,61.53,19
-consumer,Car Finance Explained,Cooling-Off Period Regulations,49.62,189
-consumer credit act 1974,Car Finance Explained,Voluntary Termination Mechanisms,65.75,68
-consumer protection,Car Finance Explained,Cooling-Off Period Regulations,65.75,127
-consumer rights act 2015,Car Finance Explained,Cooling-Off Period Regulations,58.88,126
-contact lens,Car Finance Explained,Insurance and Warranty Integration,57.9,10
-contract,Car Finance Explained,Cooling-Off Period Regulations,67.56,574
-contractual term,Car Finance Explained,Cooling-Off Period Regulations,62.25,182
-controlled-access highway,Car Finance Explained,Financing for Special Circumstances,46.8,2
-convertible,Car Finance Explained,Approval and Application Processes,55.44,1
-cost,Car Finance Explained,Cooling-Off Period Regulations,55.38,345
-cost of living,Bad Credit,Specialized Financing for Disability Benefits,71.3,5
-council tax,Bad Credit,Accessibility of Vehicle Financing,56.47,53
-county court judgment,Bad Credit,Financial Instruments for Adverse Credit,71.0,25
-coupe,Mercedes,Stratégies de Financement Mercedes,62.38,3
-crane (machine),Used,Comparative Analysis of Vehicle Types,54.28,2
-crash test,Car Finance Explained,Financing for Special Circumstances,55.62,1
-credit,Car Finance Explained,Cooling-Off Period Regulations,78.06,865
-credit bureau,Car Finance Explained,Approval and Application Processes,75.6,124
-credit card,Car Finance Explained,Cooling-Off Period Regulations,71.7,321
-credit card debt,Bad Credit,Accessibility of Vehicle Financing,58.8,5
-credit history,Bad Credit,Financial Instruments for Adverse Credit,78.9,738
-credit rating,Car Finance Explained,Cooling-Off Period Regulations,56.53,283
-credit report monitoring,Bad Credit,Credit Score Dynamics in Automotive Loans,60.88,81
-credit risk,Bad Credit,Joint Financing Strategies for Bad Credit,69.7,277
-credit score,Car Finance Explained,Cooling-Off Period Regulations,73.5,701
-credit score in the united states,Bad Credit,Accessibility of Vehicle Financing,76.94,130
-credit union,Bad Credit,Financial Instruments for Adverse Credit,48.56,15
-creditor,Car Finance Explained,Cooling-Off Period Regulations,56.44,856
-crime,Car Finance Explained,Insurance and Warranty Integration,62.38,3
-croissant,Car Finance Explained,Approval and Application Processes,38.44,1
-crop,Car Finance Explained,Vehicle Exchange Protocols,50.12,95
-crossover (automobile),Car Finance Explained,Financing for Special Circumstances,63.56,4
-crowd,Car Finance Explained,Financing for Special Circumstances,31.95,1
-cruise control,Car Finance Explained,Financing for Special Circumstances,58.62,17
-cup holder,Car Finance Explained,Approval and Application Processes,58.12,1
-curb,Car Finance Explained,Financing for Special Circumstances,48.16,1
-curfew,Car Finance Explained,Insurance and Warranty Integration,57.6,3
-customer,Bad Credit,Financial Instruments for Adverse Credit,49.38,99
-cylinder head,Car Finance Explained,Insurance and Warranty Integration,67.44,1
-d-segment,Used,Comparative Analysis of Vehicle Types,55.16,2
-dacia duster,Car Finance Explained,Financing for Special Circumstances,69.2,1
-damages,Car Finance Explained,Vehicle Exchange Protocols,67.2,95
-dashboard,Car Finance Explained,Financing for Special Circumstances,55.56,3
-data,Car Finance Explained,Insurance and Warranty Integration,45.2,94
-database,Car Finance Explained,Approval and Application Processes,56.44,4
-daytime running lamp,Used,Comparative Analysis of Vehicle Types,49.88,2
-debit card,Car Finance Explained,Approval and Application Processes,73.3,18
-debris,Car Finance Explained,Insurance and Warranty Integration,58.9,3
-debt,Car Finance Explained,Cooling-Off Period Regulations,80.4,463
-debt management plan,Bad Credit,Accessibility of Vehicle Financing,53.2,38
-debt relief,Bad Credit,Accessibility of Vehicle Financing,61.47,5
-debt relief order,Bad Credit,Accessibility of Vehicle Financing,67.5,5
-debt-to-income ratio,Ford,Approval Probability Metrics,39.0,1
-debtor,Bad Credit,Joint Financing Strategies for Bad Credit,61.8,297
-deed,Bad Credit,Alternative Financing Solutions for Impaired Credit,72.4,3
-deed of trust (real estate),Bad Credit,Alternative Financing Solutions for Impaired Credit,80.3,3
-deer,Car Finance Explained,Vehicle Exchange Protocols,46.2,2
-default (finance),Bad Credit,Joint Financing Strategies for Bad Credit,72.25,268
-deferral,Bad Credit,Accessibility of Vehicle Financing,51.3,5
-demand,Car Finance Locations,Regional Finance Solutions,47.44,1
-department for transport,Car Finance Explained,Insurance and Warranty Integration,57.8,3
-departments of france,Car Finance Explained,Insurance and Warranty Integration,54.9,3
-deposit account,Car Finance Explained,Approval and Application Processes,70.1,3
-depreciation,Value My Car,Financial Implications of Equity,60.56,75
-description,Car Finance Explained,Approval and Application Processes,37.88,5
-design,Nissan,Financial Services Overview,38.3,2
-diabetes,Car Finance Explained,Financing for Special Circumstances,36.9,1
-diesel engine,Car Finance Explained,Financing for Special Circumstances,61.1,23
-diesel exhaust,Car Finance Explained,Financing for Special Circumstances,77.7,3
-diesel fuel,Car Finance Explained,Financing for Special Circumstances,63.38,3
-diesel particulate filter,Car Finance Explained,Financing for Special Circumstances,74.7,3
-digital audio broadcasting,Van Finance,Van Aesthetic Classification,59.53,12
-digital radio,Used,Comparative Analysis of Vehicle Types,48.75,2
-dinosaur,Car Finance Explained,Vehicle Exchange Protocols,40.6,2
-dinosaur park formation,Car Finance Explained,Vehicle Exchange Protocols,41.25,2
-direct debit,Car Finance Explained,Approval and Application Processes,68.9,18
-disability,Car Finance Explained,Financing for Special Circumstances,58.3,52
-disability benefits,Bad Credit,Specialized Financing for Disability Benefits,64.44,44
-disability living allowance,Car Finance Explained,Financing for Special Circumstances,53.1,24
-disabled parking permit,Car Finance Explained,Financing for Special Circumstances,53.12,3
-disco,Car Finance Explained,Financing for Special Circumstances,34.3,1
-discounting,Bad Credit,Specialized Financing for Disability Benefits,70.9,5
-disease,Car Finance Explained,Financing for Special Circumstances,39.88,1
-dispute resolution,Car Finance Explained,Insurance and Warranty Integration,71.06,1
-ditch,Car Finance Explained,Approval and Application Processes,37.78,1
-document,Car Finance Explained,Voluntary Termination Mechanisms,44.2,25
-documentation,Bad Credit,Financial Instruments for Adverse Credit,47.6,48
-door,Car Finance Explained,Financing for Special Circumstances,59.28,5
-down payment,Motorbike Finance,Comprehensive Motorbike Financing,68.2,40
-drag (physics),Car Finance Explained,Vehicle Exchange Protocols,49.28,6
-drawer,Van Finance,Van Aesthetic Classification,63.28,12
-dream,Motorbike Finance,Comprehensive Motorbike Financing,53.03,18
-driver and vehicle licensing agency,Car Finance Explained,Financing for Special Circumstances,74.94,49
-driver and vehicle standards agency,Car Finance Explained,Insurance and Warranty Integration,60.12,10
-driver's license,Car Finance Explained,Financing for Special Circumstances,69.06,117
-driveway,Car Finance Explained,Vehicle Exchange Protocols,52.88,1
-driving,Car Finance Explained,Insurance and Warranty Integration,65.5,47
-driving licence in the united kingdom,Car Finance Explained,Approval and Application Processes,77.56,5
-driving test,Car Finance Explained,Insurance and Warranty Integration,50.8,116
-earth,Car Finance Explained,Vehicle Exchange Protocols,44.9,1
-economic surplus,Refinance My Car,Balloon Payment Management,66.25,39
-economy,Car Finance Explained,Insurance and Warranty Integration,51.62,5
-education,Bad Credit,Financial Instruments for Adverse Credit,51.28,1
-electoral roll,Car Finance Explained,Financing for Special Circumstances,55.8,40
-electric battery,Car Finance Explained,Insurance and Warranty Integration,58.47,3
-electric car,Nissan,Financial Services Overview,55.8,2
-electric motor,Car Finance Explained,Financing for Special Circumstances,47.72,2
-electric vehicle,Car Finance Explained,Financing for Special Circumstances,55.7,4
-electrician,Van Finance,Financing Options for Vans,59.2,2
-electricity,Car Finance Explained,Financing for Special Circumstances,58.1,1
-electronic stability control,Vauxhall,Corsa Interior Features,75.9,2
-elephant,Car Finance Explained,Vehicle Exchange Protocols,51.12,3
-elephant in the room,Car Finance Explained,Financing for Special Circumstances,52.62,1
-elevator,Car Finance Explained,Financing for Special Circumstances,49.2,1
-email,Car Finance Explained,Approval and Application Processes,58.03,36
-empire of japan,Car Finance Explained,Financing for Special Circumstances,32.53,5
-employee benefits,Car Finance Explained,Financing for Special Circumstances,58.47,7
-employment,Audi,Financing Options,63.62,234
-employment contract,Bad Credit,Support Mechanisms for Credit-Challenged Borrowers,50.75,9
-energy efficiency in transport,Car Finance Explained,Financing for Special Circumstances,56.9,1
-engine,Car Finance Explained,Financing for Special Circumstances,61.9,27
-england,Bad Credit,Alternative Financing Solutions for Impaired Credit,49.38,26
-environmentalism,Nissan,Financial Services Overview,33.62,2
-environmentally friendly,Car Finance Explained,Financing for Special Circumstances,51.84,3
-epilepsy,Car Finance Explained,Financing for Special Circumstances,43.56,1
-equifax,Car Finance Explained,Approval and Application Processes,58.47,122
-equifax credit reports,Bad Credit,Credit Score Dynamics in Automotive Loans,38.66,81
-equity (finance),Car Finance Explained,Insurance and Warranty Integration,76.5,216
-equity release,Value My Car,Financial Implications of Equity,54.1,7
-equity sharing,Bad Credit,Joint Financing Strategies for Bad Credit,64.3,31
-essex,Car Finance Explained,Insurance and Warranty Integration,48.72,11
-euro,Used,Comparative Analysis of Vehicle Types,52.88,4
-euro ncap,Used,Comparative Analysis of Vehicle Types,66.44,4
-europe,Car Finance Explained,Vehicle Exchange Protocols,41.97,3
-european car of the year,Used,Comparative Analysis of Vehicle Types,69.9,3
-european emission standards,Car Finance Explained,Vehicle Exchange Protocols,63.38,3
-evaluation,Bad Credit,Credit Score Dynamics in Automotive Loans,51.7,81
-excise,Car Finance Explained,Financing for Special Circumstances,58.0,1
-exhaust gas,Car Finance Explained,Financing for Special Circumstances,66.06,4
-exhaust system,Car Finance Explained,Insurance and Warranty Integration,62.4,3
-expense,Motorbike Finance,Comprehensive Motorbike Financing,61.0,137
-experian,Car Finance Explained,Approval and Application Processes,57.56,129
-expert,Bad Credit,Specialized Financing for Disability Benefits,48.44,16
-eye,Car Finance Explained,Insurance and Warranty Integration,58.12,10
-facelift (automotive),Car Finance Explained,Financing for Special Circumstances,43.62,9
-family car,Car Finance Explained,Vehicle Exchange Protocols,43.28,10
-fare,Car Finance Locations,Vehicle Accessibility Options,45.9,2
-fault (geology),Car Finance Explained,Vehicle Exchange Protocols,42.8,1
-fearmongering,Car Finance Explained,Financing for Special Circumstances,44.1,1
-fee,Car Finance Explained,Cooling-Off Period Regulations,68.6,437
-feedback,Car Finance Explained,Approval and Application Processes,63.2,3
-ferry,Car Finance Locations,Regional Finance Solutions,46.8,1
-fiat,Car Finance Explained,Insurance and Warranty Integration,65.4,16
-fiat 500,Car Finance Explained,Insurance and Warranty Integration,63.62,4
-fiat fiorino,Van Finance,Van Aesthetic Classification,90.06,12
-fiat jtd engine,Van Finance,Van Aesthetic Classification,73.0,16
-fiat punto,Van Finance,Van Aesthetic Classification,72.4,12
-filling station,Vauxhall,Corsa Interior Features,69.56,1
-finance,Car Finance Explained,Cooling-Off Period Regulations,64.2,1097
-financial adviser,Bad Credit,Joint Financing Strategies for Bad Credit,58.38,56
-financial institution,Car Finance Explained,Cooling-Off Period Regulations,53.44,276
-financial ombudsman service,Car Finance Explained,Settlement Calculations and Procedures,74.4,1
-financial risk,Car Finance Explained,Vehicle Exchange Protocols,69.1,44
-financial services,Bad Credit,Financial Instruments for Adverse Credit,49.9,10
-financial stability,Bad Credit,Joint Financing Strategies for Bad Credit,63.0,252
-financial statement,Bad Credit,Financial Instruments for Adverse Credit,40.1,7
-financial transaction,Car Finance Explained,Approval and Application Processes,75.4,19
-fixed income,Bad Credit,Financial Instruments for Adverse Credit,61.2,1
-fixed point (mathematics),Car Finance Explained,Approval and Application Processes,33.25,1
-flag,Bad Credit,Accessibility of Vehicle Financing,48.8,14
-flagship,Used,Economical Choices in Used Automobiles,40.78,1
-flamenco,Car Finance Explained,Financing for Special Circumstances,33.56,1
-flap (aeronautics),Car Finance Explained,Approval and Application Processes,40.47,1
-flood,Car Finance Explained,Approval and Application Processes,65.2,4
-floor,Car Finance Explained,Financing for Special Circumstances,41.0,1
-fog,Used,Comparative Analysis of Vehicle Types,47.7,2
-foot,Motorbike Finance,Comprehensive Motorbike Financing,53.16,2
-force,Car Finance Explained,Financing for Special Circumstances,40.7,2
-ford credit,Ford,Approval Probability Metrics,29.55,1
-ford fiesta,Car Finance Explained,Financing for Special Circumstances,65.9,4
-ford focus,Car Finance Explained,Vehicle Exchange Protocols,51.56,6
-ford galaxy,Car Finance Explained,Financing for Special Circumstances,49.03,1
-ford ka,Car Finance Explained,Insurance and Warranty Integration,65.9,3
-ford kuga,Bad Credit,Financial Instruments for Adverse Credit,41.16,1
-ford mondeo,Used,Comparative Analysis of Vehicle Types,60.38,2
-ford mondeo (fourth generation),Used,Comparative Analysis of Vehicle Types,82.0,2
-ford motor company,Car Finance Explained,Insurance and Warranty Integration,56.2,30
-ford puma (coupé),Car Finance Explained,Financing for Special Circumstances,45.12,1
-ford s-max,Car Finance Explained,Vehicle Exchange Protocols,56.9,12
-ford transit,Van Finance,Financing Options for Vans,83.75,2
-forest,Car Finance Explained,Vehicle Exchange Protocols,40.38,2
-forklift,Van Finance,Financing Options for Vans,77.75,2
-four-wheel drive,Car Finance Explained,Vehicle Exchange Protocols,57.53,16
-france,Car Finance Explained,Financing for Special Circumstances,39.38,6
-fraud,Car Finance Explained,Guarantor Financing Options,45.62,114
-frugality,Car Finance Explained,Financing for Special Circumstances,33.25,5
-fuel,Car Finance Explained,Insurance and Warranty Integration,50.1,54
-fuel economy in automobiles,Car Finance Explained,Insurance and Warranty Integration,61.4,110
-fuel efficiency,Car Finance Explained,Financing for Special Circumstances,54.3,4
-fuel tax,Car Finance Explained,Financing for Special Circumstances,74.8,1
-funding,Bad Credit,Financial Instruments for Adverse Credit,70.7,10
-furniture,Car Finance Explained,Financing for Special Circumstances,57.62,1
-future,Car Finance Explained,Approval and Application Processes,49.2,37
-future value,Car Finance Explained,Settlement Calculations and Procedures,67.3,1
-gallon,Used,Economical Choices in Used Automobiles,42.72,1
-gambling,Bad Credit,Financial Instruments for Adverse Credit,37.66,7
-garage (residential),Car Finance Explained,Insurance and Warranty Integration,63.53,3
-gas,Car Finance Explained,Financing for Special Circumstances,52.53,3
-gasoline,Car Finance Explained,Financing for Special Circumstances,58.88,22
-gear,Car Finance Explained,Financing for Special Circumstances,40.5,1
-geordie,Car Finance Explained,Approval and Application Processes,44.6,1
-geordie shore,Car Finance Explained,Approval and Application Processes,53.72,1
-germany,Used,Economical Choices in Used Automobiles,55.03,14
-giraffe,Car Finance Explained,Vehicle Exchange Protocols,45.75,2
-glass,Car Finance Explained,Vehicle Exchange Protocols,53.88,12
-glasses,Car Finance Explained,Insurance and Warranty Integration,67.8,10
-glaucoma,Car Finance Explained,Financing for Special Circumstances,36.28,1
-golf,Used,Comparative Analysis of Vehicle Types,47.1,2
-good faith,Car Finance Explained,Settlement Calculations and Procedures,57.84,1
-grassland,Car Finance Explained,Vehicle Exchange Protocols,49.1,2
-great plains,Car Finance Explained,Vehicle Exchange Protocols,43.1,2
-greenhouse gas emissions,Car Finance Explained,Financing for Special Circumstances,50.2,4
-grille (car),Used,Economical Choices in Used Automobiles,54.47,1
-habit,Car Finance Explained,Vehicle Exchange Protocols,42.16,1
-hair dryer,Car Finance Locations,Traffic Sign Interpretation,50.56,87
-halfords,Car Finance Explained,Approval and Application Processes,35.16,1
-hampshire,Car Finance Explained,Insurance and Warranty Integration,47.2,10
-handsfree,Car Finance Explained,Approval and Application Processes,47.47,1
-harley-davidson,Motorbike Finance,Comprehensive Motorbike Financing,79.1,2
-hatchback,Car Finance Explained,Vehicle Exchange Protocols,59.62,20
-headache,Refinance My Car,Settlement and Termination Processes,47.84,36
-headlamp,Car Finance Explained,Financing for Special Circumstances,62.2,5
-health,Car Finance Explained,Credit Score Considerations,43.8,6
-health care,Car Finance Explained,Financing for Special Circumstances,51.2,7
-heart,Car Finance Explained,Financing for Special Circumstances,39.06,1
-heat,Car Finance Explained,Financing for Special Circumstances,60.16,1
-heating system,Car Finance Explained,Financing for Special Circumstances,51.75,1
-"heating, ventilation, and air conditioning",Car Finance Explained,Financing for Special Circumstances,57.56,5
-height,Car Finance Explained,Financing for Special Circumstances,33.56,1
-herd,Car Finance Explained,Vehicle Exchange Protocols,42.8,2
-hill descent control system,Car Finance Explained,Financing for Special Circumstances,37.78,1
-hill-holder,Car Finance Explained,Financing for Special Circumstances,47.38,1
-hire purchase,Car Finance Explained,Insurance and Warranty Integration,71.6,262
-hoist (device),Car Finance Explained,Financing for Special Circumstances,34.72,1
-holiday,Car Finance Explained,Vehicle Exchange Protocols,48.38,95
-home appliance,Car Finance Locations,Traffic Sign Interpretation,50.25,87
-home equity loan,Value My Car,Financial Implications of Equity,58.2,7
-homework,Used,Economical Choices in Used Automobiles,41.1,1
-honda,Car Finance Explained,Vehicle Exchange Protocols,57.2,14
-honda civic,Used,Economical Choices in Used Automobiles,59.8,1
-honda cr-v,Car Finance Explained,Vehicle Exchange Protocols,58.25,11
-hood (car),Van Finance,Van Aesthetic Classification,60.38,15
-horse,Used,Economical Choices in Used Automobiles,38.88,1
-horse trailer,Caravan Finance,Long-Term Caravan Financing,29.73,1
-hot hatch,Vauxhall,Corsa Interior Features,70.56,1
-hour,Car Finance Explained,Vehicle Exchange Protocols,34.56,3
-housing benefit,Bad Credit,Specialized Financing for Disability Benefits,59.88,16
-hpi ltd,Motorbike Finance,Comprehensive Motorbike Financing,54.97,2
-hunting,Car Finance Explained,Vehicle Exchange Protocols,51.97,2
-husband,Bad Credit,Joint Financing Strategies for Bad Credit,66.06,31
-hybrid electric vehicle,Car Finance Explained,Financing for Special Circumstances,66.3,2
-hybrid vehicle,Car Finance Explained,Financing for Special Circumstances,60.25,4
-hydrogen,Car Finance Locations,Vehicle Accessibility Options,43.1,2
-hydrogen economy,Car Finance Locations,Vehicle Accessibility Options,47.2,2
-hydrogen vehicle,Car Finance Locations,Vehicle Accessibility Options,45.9,2
-hyundai i20,Vauxhall,Corsa Interior Features,74.75,1
-hyundai ioniq,Car Finance Explained,Financing for Special Circumstances,57.9,1
-hyundai motor company,Car Finance Explained,Financing for Special Circumstances,61.44,2
-ice,Car Finance Explained,Vehicle Exchange Protocols,41.44,2
-ice age,Car Finance Explained,Vehicle Exchange Protocols,40.7,2
-identity document,Motorbike Finance,Comprehensive Motorbike Financing,84.75,65
-identity theft,Bad Credit,Credit Score Dynamics in Automotive Loans,54.38,81
-identity verification service,Bad Credit,Accessibility of Vehicle Financing,64.44,56
-immobiliser,Car Finance Explained,Insurance and Warranty Integration,64.4,3
-in-car entertainment,Car Finance Explained,Financing for Special Circumstances,51.97,6
-incentive,Refinance My Car,Settlement and Termination Processes,58.25,44
-inch,Car Finance Explained,Financing for Special Circumstances,44.1,2
-income,Bad Credit,Financial Instruments for Adverse Credit,58.8,425
-income support,Bad Credit,Financial Instruments for Adverse Credit,63.1,7
-individual voluntary arrangement,Bad Credit,Financial Instruments for Adverse Credit,70.8,13
-information,Bad Credit,Accessibility of Vehicle Financing,49.0,129
-infotainment,Car Finance Explained,Financing for Special Circumstances,50.84,18
-infrastructure,Car Finance Explained,Financing for Special Circumstances,46.47,3
-injury,Car Finance Explained,Insurance and Warranty Integration,51.47,3
-insect,Car Finance Locations,Car Finance Accessibility,68.6,1
-insolvency,Bad Credit,Accessibility of Vehicle Financing,56.44,5
-insolvency practitioner,Bad Credit,Alternative Financing Solutions for Impaired Credit,38.5,10
-inspection,Car Finance Explained,Approval and Application Processes,54.56,22
-instability,BMW,Financial Institution Insights,42.1,24
-insurance,Car Finance Explained,Insurance and Warranty Integration,69.25,206
-insurance fraud,Car Finance Explained,Guarantor Financing Options,62.0,28
-insurance policy,Car Finance Explained,Insurance and Warranty Integration,58.38,50
-interest,Car Finance Explained,Cooling-Off Period Regulations,77.94,642
-interest rate,Bad Credit,Financial Instruments for Adverse Credit,69.1,498
-intermediary,Bad Credit,Financial Instruments for Adverse Credit,45.53,10
-international electrotechnical commission,Used,Comparative Analysis of Vehicle Types,45.16,2
-international organization for standardization,Car Finance Explained,Financing for Special Circumstances,34.3,5
-intranet,Car Finance Explained,Financing for Special Circumstances,55.62,7
-investment,Motorbike Finance,Comprehensive Motorbike Financing,58.53,78
-invoice,Bad Credit,Accessibility of Vehicle Financing,60.9,55
-ioniq,Car Finance Explained,Financing for Special Circumstances,52.75,1
-ireland,Bad Credit,Alternative Financing Solutions for Impaired Credit,46.25,16
-isofix,Car Finance Explained,Vehicle Exchange Protocols,51.53,15
-italy,Van Finance,Van Aesthetic Classification,57.84,13
-janis joplin,Used,Economical Choices in Used Automobiles,47.53,1
-jeep,Car Finance Explained,Financing for Special Circumstances,51.38,1
-jeep cherokee (xj),Car Finance Explained,Financing for Special Circumstances,52.62,1
-jobseeker's allowance,Bad Credit,Financial Instruments for Adverse Credit,64.3,33
-joey essex,Car Finance Explained,Approval and Application Processes,44.97,1
-joint venture,Van Finance,Van Aesthetic Classification,56.88,12
-katie price,Car Finance Explained,Approval and Application Processes,62.0,1
-kent,Car Finance Explained,Vehicle Exchange Protocols,41.4,2
-kg mobility,Car Finance Explained,Financing for Special Circumstances,49.25,1
-kia,Car Finance Explained,Approval and Application Processes,56.2,1
-kia niro,Car Finance Explained,Approval and Application Processes,59.28,1
-knee,Car Finance Explained,Approval and Application Processes,34.88,1
-knowledge,Car Finance Explained,Approval and Application Processes,60.62,5
-knowsley safari park,Car Finance Explained,Vehicle Exchange Protocols,75.9,2
-labour economics,Bad Credit,Financial Instruments for Adverse Credit,49.25,1
-lamborghini,Car Finance Explained,Approval and Application Processes,75.5,1
-lamborghini aventador,Car Finance Explained,Approval and Application Processes,78.25,1
-laminated glass,Car Finance Explained,Vehicle Exchange Protocols,55.53,6
-land rover,Used,Economical Choices in Used Automobiles,50.9,2
-land rover discovery,Used,Economical Choices in Used Automobiles,60.25,2
-landscape,Car Finance Explained,Credit Score Considerations,31.45,1
-lane departure warning system,Car Finance Explained,Approval and Application Processes,64.25,1
-large goods vehicle,Car Finance Locations,Traffic Sign Interpretation,78.8,87
-law,Car Finance Explained,Cooling-Off Period Regulations,59.9,212
-learner's permit,Bad Credit,Accessibility of Vehicle Financing,80.4,47
-lease,Audi,Financing Options,61.62,50
-legal liability,Bad Credit,Alternative Financing Solutions for Impaired Credit,68.75,3
-length,Car Finance Explained,Cooling-Off Period Regulations,50.4,47
-lens,Car Finance Explained,Insurance and Warranty Integration,56.6,10
-level crossing,Car Finance Locations,Traffic Sign Interpretation,71.25,87
-liability (financial accounting),Bad Credit,Alternative Financing Solutions for Impaired Credit,64.25,3
-license,Motorbike Finance,Comprehensive Motorbike Financing,57.4,149
-light,Car Finance Explained,Vehicle Exchange Protocols,52.8,7
-lighting,Vauxhall,Corsa Interior Features,63.8,1
-lightning,Car Finance Locations,Traffic Sign Interpretation,63.62,87
-likelihood function,Car Finance Explained,Insurance and Warranty Integration,66.1,3
-lion,Car Finance Explained,Vehicle Exchange Protocols,53.7,2
-lip,Car Finance Explained,Financing for Special Circumstances,33.78,1
-litre,Car Finance Explained,Financing for Special Circumstances,47.75,8
-lloyds bank,Car Finance Explained,Approval and Application Processes,56.88,3
-loan,Car Finance Explained,Cooling-Off Period Regulations,80.9,807
-loan agreement,Bad Credit,Joint Financing Strategies for Bad Credit,69.75,77
-loan guarantee,Bad Credit,Financial Instruments for Adverse Credit,58.47,7
-logbook loan,Value My Car,Financial Implications of Equity,52.3,7
-london,Used,Economical Choices in Used Automobiles,41.97,4
-london congestion charge,Car Finance Locations,Vehicle Accessibility Options,72.9,2
-london inner ring road,Car Finance Locations,Vehicle Accessibility Options,54.75,2
-longleat,Car Finance Explained,Vehicle Exchange Protocols,52.9,2
-longleat safari and adventure park,Car Finance Explained,Vehicle Exchange Protocols,47.1,2
-loophole,Car Finance Explained,Insurance and Warranty Integration,42.4,10
-love island (2015 tv series),Car Finance Explained,Approval and Application Processes,64.4,1
-low-emission zone,Car Finance Locations,Vehicle Accessibility Options,39.5,2
-luck,Bad Credit,Credit Assessment and Vehicle Acquisition,65.44,7
-lumbar,Car Finance Explained,Financing for Special Circumstances,30.69,1
-lump sum,Refinance My Car,Balloon Payment Management,51.9,43
-lunch,Car Finance Explained,Vehicle Exchange Protocols,38.5,2
-lung,Car Finance Explained,Financing for Special Circumstances,44.72,1
-luxury car,Used,Economical Choices in Used Automobiles,69.0,4
-lympne,Car Finance Explained,Vehicle Exchange Protocols,41.9,2
-made in chelsea,Car Finance Explained,Approval and Application Processes,51.9,1
-management,Bad Credit,Accessibility of Vehicle Financing,52.84,48
-manchester,Car Finance Explained,Approval and Application Processes,36.12,2
-manual transmission,Car Finance Explained,Approval and Application Processes,52.6,1
-manufacturing,Car Finance Explained,Insurance and Warranty Integration,66.5,1
-market (economics),Car Finance Explained,Vehicle Exchange Protocols,63.1,44
-market data,Car Finance Explained,Insurance and Warranty Integration,59.03,3
-market value,Bad Credit,Financial Instruments for Adverse Credit,61.72,104
-matter,Car Finance Explained,Approval and Application Processes,49.53,5
-mayor of london,Car Finance Locations,Vehicle Accessibility Options,50.62,2
-mechanic,Car Finance Explained,Approval and Application Processes,43.9,4
-meerkat,Car Finance Explained,Vehicle Exchange Protocols,44.47,2
-mercedes-amg,Mercedes,Stratégies de Financement Mercedes,61.56,3
-mercedes-benz,Used,Economical Choices in Used Automobiles,67.2,21
-mercedes-benz a-class,Bad Credit,Financial Instruments for Adverse Credit,48.56,1
-mercedes-benz b-class,Car Finance Explained,Financing for Special Circumstances,65.56,1
-mercedes-benz c-class,Mercedes,Stratégies de Financement Mercedes,58.25,6
-mercedes-benz c-class (w202),Car Finance Explained,Approval and Application Processes,56.9,3
-mercedes-benz citan,Van Finance,Van Aesthetic Classification,65.1,12
-mercedes-benz gle,Car Finance Explained,Financing for Special Circumstances,48.9,1
-merseyside,Car Finance Explained,Vehicle Exchange Protocols,42.38,2
-methodology,Bad Credit,Credit Score Dynamics in Automotive Loans,45.84,81
-metre,Van Finance,Financing Options for Vans,61.7,2
-metre-stick,Used,Economical Choices in Used Automobiles,39.44,2
-milestone,Car Finance Locations,Car Finance Accessibility,69.4,1
-mind,Car Finance Explained,Approval and Application Processes,65.44,2
-mini,Bad Credit,Financial Instruments for Adverse Credit,61.1,8
-mini countryman,Car Finance Explained,Financing for Special Circumstances,47.84,5
-mini hatch,Vauxhall,Corsa Interior Features,71.6,2
-minivan,Car Finance Explained,Vehicle Exchange Protocols,76.75,27
-mirror,Car Finance Explained,Financing for Special Circumstances,49.1,2
-mobile home,Caravan Finance,Long-Term Caravan Financing,37.7,1
-mobile phone,Car Finance Explained,Insurance and Warranty Integration,57.72,37
-mobility aid,Car Finance Explained,Financing for Special Circumstances,43.84,1
-mobility allowance,Car Finance Explained,Financing for Special Circumstances,65.94,24
-money,Car Finance Explained,Cooling-Off Period Regulations,63.1,309
-moneysupermarket.com,Car Finance Explained,Insurance and Warranty Integration,54.16,3
-monkey,Car Finance Explained,Vehicle Exchange Protocols,43.0,2
-monochrome,Car Finance Explained,Approval and Application Processes,46.47,1
-mortgage,Car Finance Explained,Credit Score Considerations,66.0,1
-mot test,Motorbike Finance,Comprehensive Motorbike Financing,61.38,22
-motability,Car Finance Explained,Financing for Special Circumstances,70.4,1
-mothercare,Car Finance Explained,Vehicle Exchange Protocols,43.44,6
-motonovo,Car Finance Explained,Approval and Application Processes,46.84,14
-motor vehicle registration,Car Finance Explained,Vehicle Exchange Protocols,78.2,1
-motorcycle,Car Finance Locations,Traffic Sign Interpretation,64.6,98
-motorhome,Car Finance Explained,Approval and Application Processes,41.7,3
-motorhome finance,Caravan Finance,Long-Term Caravan Financing,26.6,1
-mountain,Car Finance Explained,Approval and Application Processes,37.84,1
-multi-valve,Used,Comparative Analysis of Vehicle Types,57.8,2
-music,Used,Comparative Analysis of Vehicle Types,47.7,2
-nadiya hussain,Car Finance Explained,Approval and Application Processes,55.25,1
-national health service,Car Finance Explained,Financing for Special Circumstances,59.88,9
-national insurance,Car Finance Explained,Financing for Special Circumstances,82.6,7
-natural environment,Car Finance Explained,Financing for Special Circumstances,46.9,1
-natural rights and legal rights,Car Finance Explained,Cooling-Off Period Regulations,58.44,86
-navigation,Car Finance Explained,Financing for Special Circumstances,43.9,3
-navigation system,Used,Comparative Analysis of Vehicle Types,42.6,2
-neck,Car Finance Explained,Financing for Special Circumstances,34.22,1
-need to know,Bad Credit,Financial Instruments for Adverse Credit,60.1,21
-negative equity,Value My Car,Financial Implications of Equity,69.3,146
-negotiation,Refinance My Car,Settlement and Termination Processes,64.75,55
-neurological disorder,Car Finance Explained,Financing for Special Circumstances,36.34,1
-new deal,Car Finance Explained,Insurance and Warranty Integration,61.2,97
-news,Car Finance Explained,Vehicle Exchange Protocols,65.2,1
-nhs discount,Car Finance Explained,Financing for Special Circumstances,44.47,7
-nhs trust,Car Finance Explained,Financing for Special Circumstances,47.53,7
-nissan,Car Finance Explained,Financing for Special Circumstances,48.3,5
-nissan juke,Car Finance Explained,Financing for Special Circumstances,61.2,5
-nissan leaf,Nissan,Financial Services Overview,48.9,2
-nissan micra,Nissan,Financial Services Overview,50.8,2
-nissan qashqai,Car Finance Explained,Approval and Application Processes,56.16,3
-nitrogen,Car Finance Explained,Financing for Special Circumstances,45.7,2
-noise,Used,Comparative Analysis of Vehicle Types,43.8,2
-nonprofit organization,Bad Credit,Specialized Financing for Disability Benefits,65.56,5
-northern ireland,Bad Credit,Alternative Financing Solutions for Impaired Credit,49.88,16
-nose,Used,Economical Choices in Used Automobiles,41.0,1
-nothing,Used,Economical Choices in Used Automobiles,51.75,60
-nox,Car Finance Explained,Financing for Special Circumstances,68.06,2
-nozzle,Car Finance Explained,Financing for Special Circumstances,32.2,1
-nursing,Car Finance Explained,Financing for Special Circumstances,50.9,7
-nursing home,Car Finance Locations,Vehicle Accessibility Options,49.2,2
-odds,Mercedes,Stratégies de Financement Mercedes,58.44,3
-office for national statistics,Car Finance Explained,Vehicle Exchange Protocols,50.28,6
-oil,Car Finance Explained,Vehicle Exchange Protocols,46.8,1
-olly murs,Car Finance Explained,Approval and Application Processes,58.88,1
-ombudsman,Car Finance Explained,Settlement Calculations and Procedures,68.2,2
-one-way traffic,Car Finance Locations,Traffic Sign Interpretation,73.2,87
-onstar,Used,Comparative Analysis of Vehicle Types,57.62,2
-opel astra,Car Finance Explained,Vehicle Exchange Protocols,79.5,6
-opel combo,Car Finance Explained,Financing for Special Circumstances,46.7,1
-opel corsa,Vauxhall,Corsa Interior Features,86.4,1
-opel insignia,Bad Credit,Financial Instruments for Adverse Credit,52.1,8
-opel vectra,Used,Comparative Analysis of Vehicle Types,62.03,2
-opel zafira,Car Finance Explained,Financing for Special Circumstances,80.75,1
-optician,Car Finance Explained,Insurance and Warranty Integration,62.7,10
-option (finance),Car Finance Explained,Cooling-Off Period Regulations,66.2,702
-optometry,Car Finance Explained,Insurance and Warranty Integration,54.84,10
-outline (list),Bad Credit,Financial Instruments for Adverse Credit,43.03,7
-overalls,Used,Economical Choices in Used Automobiles,39.66,1
-overdraft,Bad Credit,Financial Instruments for Adverse Credit,52.38,8
-overtime (sports),Bad Credit,Credit Assessment and Vehicle Acquisition,58.0,7
-owner-occupancy,Car Finance Explained,Guarantor Financing Options,54.12,25
-ownership,Car Finance Explained,Financing for Special Circumstances,55.72,167
-oxide,Car Finance Explained,Financing for Special Circumstances,40.5,2
-pablo picasso,Car Finance Explained,Vehicle Exchange Protocols,53.0,7
-packed lunch,Car Finance Explained,Vehicle Exchange Protocols,36.47,2
-paignton zoo,Car Finance Explained,Vehicle Exchange Protocols,52.12,2
-pain,Car Finance Explained,Financing for Special Circumstances,40.75,1
-paint,Car Finance Locations,Car Finance Accessibility,58.1,3
-pallet,Van Finance,Financing Options for Vans,68.9,2
-pandemic,Car Finance Locations,Vehicle Accessibility Options,35.03,2
-panel van,Van Finance,Financing Options for Vans,88.25,2
-panic,Car Finance Explained,Approval and Application Processes,49.1,4
-paper,Car Finance Locations,Car Finance Accessibility,67.6,1
-paper towel,Car Finance Locations,Car Finance Accessibility,62.6,1
-parallel parking,Car Finance Explained,Insurance and Warranty Integration,58.16,3
-parent,Car Finance Explained,Vehicle Exchange Protocols,54.88,64
-park lane,Car Finance Locations,Vehicle Accessibility Options,38.7,2
-parking,Car Finance Explained,Insurance and Warranty Integration,65.3,6
-parking enforcement officer,Car Finance Explained,Approval and Application Processes,45.2,1
-parking sensor,Car Finance Explained,Financing for Special Circumstances,43.38,4
-parking violation,Car Finance Explained,Approval and Application Processes,43.9,1
-part exchange,Bad Credit,Financial Instruments for Adverse Credit,58.3,189
-part-time job,Car Finance Explained,Financing for Special Circumstances,53.8,8
-particulates,Car Finance Explained,Financing for Special Circumstances,65.7,3
-passenger,Car Finance Explained,Vehicle Exchange Protocols,48.62,13
-passport,Motorbike Finance,Comprehensive Motorbike Financing,67.94,65
-payload,Van Finance,Financing Options for Vans,71.0,2
-payment,Car Finance Explained,Cooling-Off Period Regulations,60.44,727
-payment system,Car Finance Locations,Vehicle Accessibility Options,43.4,2
-penguin,Car Finance Explained,Vehicle Exchange Protocols,41.53,2
-pension,Car Finance Explained,Financing for Special Circumstances,69.4,79
-percentage,Car Finance Explained,Insurance and Warranty Integration,55.88,103
-personal contract purchase,Car Finance Explained,Insurance and Warranty Integration,85.8,408
-personal finance,Refinance My Car,Settlement and Termination Processes,55.2,39
-personal independence payment,Car Finance Explained,Financing for Special Circumstances,87.5,45
-pet,Used,Economical Choices in Used Automobiles,51.2,6
-petrol engine,Car Finance Explained,Financing for Special Circumstances,52.56,19
-peugeot,Car Finance Explained,Insurance and Warranty Integration,61.6,24
-peugeot 107,Car Finance Explained,Insurance and Warranty Integration,64.06,3
-peugeot 208,Car Finance Explained,Financing for Special Circumstances,52.38,1
-peugeot 3008,Car Finance Explained,Approval and Application Processes,71.75,1
-peugeot 308,Used,Economical Choices in Used Automobiles,51.4,1
-peugeot 5008,Car Finance Explained,Vehicle Exchange Protocols,70.6,6
-photo identification,Bad Credit,Accessibility of Vehicle Financing,54.25,47
-pickup truck,Van Finance,Financing Options for Vans,63.75,2
-piston,Car Finance Explained,Insurance and Warranty Integration,77.44,1
-plug-in (computing),Car Finance Explained,Insurance and Warranty Integration,55.56,4
-plumber,Van Finance,Financing Options for Vans,56.84,2
-plush,Car Finance Explained,Financing for Special Circumstances,28.34,1
-point system (driving),Car Finance Explained,Insurance and Warranty Integration,71.4,3
-police,Car Finance Explained,Insurance and Warranty Integration,51.12,11
-policy,Car Finance Explained,Insurance and Warranty Integration,63.0,337
-polka,Car Finance Explained,Vehicle Exchange Protocols,52.62,1
-polka dot,Car Finance Explained,Vehicle Exchange Protocols,59.44,1
-pollution,Car Finance Explained,Financing for Special Circumstances,49.2,5
-pop music,Car Finance Explained,Approval and Application Processes,44.97,1
-porsche,Car Finance Explained,Insurance and Warranty Integration,68.5,3
-porsche cayenne,Car Finance Explained,Financing for Special Circumstances,57.1,1
-port lympne wild animal park,Car Finance Explained,Vehicle Exchange Protocols,73.6,2
-portsmouth,Car Finance Explained,Financing for Special Circumstances,42.8,1
-poverty,Bad Credit,Financial Instruments for Adverse Credit,57.56,7
-power door locks,Vauxhall,Corsa Interior Features,65.6,1
-power steering,Car Finance Explained,Financing for Special Circumstances,58.3,2
-present value,Refinance My Car,Balloon Payment Management,83.1,39
-pressure,Car Finance Explained,Approval and Application Processes,56.88,1
-price,Car Finance Explained,Insurance and Warranty Integration,62.9,129
-price level,Vauxhall,Corsa Interior Features,55.9,1
-pricing,Car Finance Explained,Insurance and Warranty Integration,70.2,3
-pride,Car Finance Explained,Financing for Special Circumstances,46.3,5
-principle,Car Finance Explained,Approval and Application Processes,48.62,44
-privacy,Bad Credit,Credit Score Dynamics in Automotive Loans,55.1,81
-procurement,Car Finance Explained,Approval and Application Processes,61.56,34
-professional wrestling strikes,Car Finance Explained,Vehicle Exchange Protocols,47.47,10
-property,Car Finance Explained,Insurance and Warranty Integration,45.9,11
-protected trust deed,Bad Credit,Alternative Financing Solutions for Impaired Credit,95.1,3
-public sector,Car Finance Explained,Financing for Special Circumstances,44.38,7
-public transport,Car Finance Locations,Vehicle Accessibility Options,55.88,2
-puma (brand),Car Finance Explained,Financing for Special Circumstances,31.92,1
-pump,Car Finance Explained,Financing for Special Circumstances,48.38,2
-purchasing,Bad Credit,Joint Financing Strategies for Bad Credit,81.25,31
-purchasing power,Bad Credit,Joint Financing Strategies for Bad Credit,52.38,31
-quantity,Car Finance Explained,Vehicle Exchange Protocols,41.8,1
-question,Car Finance Explained,Credit Score Considerations,28.95,1
-racing flags,Bad Credit,Accessibility of Vehicle Financing,57.9,5
-radio,Used,Comparative Analysis of Vehicle Types,51.7,3
-rags to riches,Car Finance Explained,Approval and Application Processes,41.53,1
-rail transport,Car Finance Locations,Traffic Sign Interpretation,69.4,89
-raised floor,Car Finance Explained,Financing for Special Circumstances,48.53,1
-range rover,Bad Credit,Financial Instruments for Adverse Credit,62.1,2
-ratio,Audi,Financing Options,53.97,114
-real estate agent,Bad Credit,Financial Instruments for Adverse Credit,65.8,10
-reality television,Car Finance Explained,Approval and Application Processes,65.94,1
-reason,Bad Credit,Support Mechanisms for Credit-Challenged Borrowers,55.84,28
-refinancing,Value My Car,Financial Implications of Equity,89.44,346
-refinancing your car loan,Value My Car,Financial Implications of Equity,45.2,7
-regulation,Car Finance Explained,Cooling-Off Period Regulations,49.38,31
-reimbursement,Car Finance Locations,Vehicle Accessibility Options,39.12,2
-reliability index,Car Finance Explained,Insurance and Warranty Integration,72.44,1
-remote keyless system,Vauxhall,Corsa Interior Features,66.06,1
-renault,Car Finance Explained,Vehicle Exchange Protocols,62.25,24
-renault kangoo,Van Finance,Van Aesthetic Classification,86.2,12
-renault scénic,Van Finance,Van Aesthetic Classification,80.25,13
-renault twingo,Car Finance Explained,Vehicle Exchange Protocols,60.62,11
-repayment plan,Bad Credit,Accessibility of Vehicle Financing,61.97,9
-repossession,Car Finance Explained,Approval and Application Processes,72.25,83
-research,Bad Credit,Accessibility of Vehicle Financing,60.38,12
-residual value,Car Finance Explained,Financing for Special Circumstances,39.84,1
-respiratory disease,Car Finance Explained,Financing for Special Circumstances,40.47,1
-restructuring,Car Finance Explained,Approval and Application Processes,55.9,19
-retirement,Car Finance Explained,Financing for Special Circumstances,66.06,58
-revenue,Car Finance Locations,Vehicle Accessibility Options,37.62,2
-rhinoceros,Car Finance Explained,Vehicle Exchange Protocols,42.25,2
-right to repair,Car Finance Explained,Insurance and Warranty Integration,84.94,1
-rights,Car Finance Explained,Cooling-Off Period Regulations,58.03,31
-risk,Car Finance Locations,Traffic Sign Interpretation,63.1,377
-river thames,Car Finance Explained,Insurance and Warranty Integration,50.6,10
-road,Car Finance Locations,Traffic Sign Interpretation,67.3,112
-road tax,Car Finance Explained,Financing for Special Circumstances,59.88,4
-road traffic safety,Car Finance Explained,Insurance and Warranty Integration,62.56,10
-roadblock,Nissan,Financial Services Overview,28.62,2
-roadside assistance,Car Finance Explained,Insurance and Warranty Integration,65.5,3
-rolls-royce limited,Car Finance Explained,Insurance and Warranty Integration,75.06,1
-roof,Car Finance Explained,Vehicle Exchange Protocols,58.47,28
-room,Car Finance Explained,Financing for Special Circumstances,37.56,2
-root,Car Finance Explained,Insurance and Warranty Integration,58.88,2
-rotary dial,Used,Comparative Analysis of Vehicle Types,44.8,2
-rsa insurance group,Car Finance Explained,Insurance and Warranty Integration,45.3,10
-rule of thumb,Car Finance Explained,Insurance and Warranty Integration,52.62,13
-rust,Motorbike Finance,Comprehensive Motorbike Financing,56.1,2
-sacrifice,Car Finance Explained,Financing for Special Circumstances,42.62,7
-safari,Car Finance Explained,Vehicle Exchange Protocols,46.8,2
-safari park,Car Finance Explained,Vehicle Exchange Protocols,67.4,2
-salary,Car Finance Explained,Financing for Special Circumstances,66.6,8
-salary packaging,Car Finance Explained,Financing for Special Circumstances,59.53,7
-sales,Car Finance Explained,Approval and Application Processes,58.8,88
-sam faiers,Car Finance Explained,Approval and Application Processes,50.97,1
-san diego zoo safari park,Car Finance Explained,Vehicle Exchange Protocols,63.28,2
-"santander, spain",Car Finance Explained,Approval and Application Processes,39.2,3
-satellite navigation,Used,Comparative Analysis of Vehicle Types,45.75,3
-savanna,Car Finance Explained,Vehicle Exchange Protocols,46.2,2
-save a lot,Car Finance Explained,Insurance and Warranty Integration,59.2,1
-saving,Car Finance Explained,Guarantor Financing Options,66.1,24
-scandal,Car Finance Explained,Financing for Special Circumstances,42.0,1
-scissor doors,Car Finance Explained,Approval and Application Processes,58.53,1
-scotland,Bad Credit,Alternative Financing Solutions for Impaired Credit,53.53,9
-scrappage program,Car Finance Explained,Financing for Special Circumstances,62.62,2
-sea lion,Car Finance Explained,Vehicle Exchange Protocols,37.94,2
-seat,Car Finance Explained,Financing for Special Circumstances,48.62,6
-seat alhambra,Car Finance Explained,Vehicle Exchange Protocols,56.38,7
-seat belt,Vauxhall,Corsa Interior Features,74.75,1
-secured loan,Caravan Finance,Long-Term Caravan Financing,59.03,1
-sedan (automobile),Mercedes,Stratégies de Financement Mercedes,51.4,6
-self-employment,Bad Credit,Financial Instruments for Adverse Credit,72.06,30
-sensor,Car Finance Explained,Financing for Special Circumstances,42.1,4
-settlement (litigation),Refinance My Car,Settlement and Termination Processes,62.88,36
-shampoo,Car Finance Locations,Car Finance Accessibility,76.9,1
-shape,Car Finance Explained,Approval and Application Processes,45.38,5
-ship commissioning,Car Finance Explained,Vehicle Exchange Protocols,57.2,96
-shoulder (road),Car Finance Explained,Approval and Application Processes,58.47,1
-silver,Car Finance Explained,Approval and Application Processes,55.3,1
-sit-in,Car Finance Explained,Financing for Special Circumstances,53.6,1
-slang,Car Finance Explained,Approval and Application Processes,52.7,5
-sleep,Car Finance Explained,Financing for Special Circumstances,40.66,1
-sleep apnea,Car Finance Explained,Financing for Special Circumstances,43.38,1
-sliding door (car),Car Finance Explained,Financing for Special Circumstances,68.9,13
-smile,Used,Economical Choices in Used Automobiles,29.34,1
-smoke,Car Finance Explained,Approval and Application Processes,42.75,5
-sms,Car Finance Explained,Approval and Application Processes,60.88,9
-snellen chart,Car Finance Explained,Insurance and Warranty Integration,76.75,10
-snow,Car Finance Explained,Financing for Special Circumstances,34.3,5
-social security in australia,Bad Credit,Accessibility of Vehicle Financing,72.5,38
-sod,Car Finance Explained,Financing for Special Circumstances,56.2,1
-somnolence,Car Finance Explained,Financing for Special Circumstances,31.84,1
-son,Car Finance Explained,Guarantor Financing Options,48.12,28
-soot,Car Finance Explained,Financing for Special Circumstances,60.88,2
-sorry! (game),Car Finance Explained,Vehicle Exchange Protocols,62.38,1
-south korea,Car Finance Explained,Financing for Special Circumstances,32.44,1
-southern white rhinoceros,Car Finance Explained,Vehicle Exchange Protocols,44.9,2
-space,Car Finance Locations,Traffic Sign Interpretation,53.2,121
-spaghetti junction,Car Finance Explained,Vehicle Exchange Protocols,35.9,2
-spain,Car Finance Explained,Financing for Special Circumstances,36.72,1
-spark plug,Car Finance Explained,Insurance and Warranty Integration,77.44,1
-species,Car Finance Explained,Vehicle Exchange Protocols,36.9,2
-speed,Car Finance Locations,Traffic Sign Interpretation,54.38,111
-speed limit,Car Finance Locations,Traffic Sign Interpretation,69.06,92
-spencer matthews,Car Finance Explained,Approval and Application Processes,43.28,1
-spoiler (car),Car Finance Explained,Insurance and Warranty Integration,65.3,3
-sports car,Car Finance Explained,Approval and Application Processes,70.75,1
-sports sedan,Car Finance Explained,Approval and Application Processes,43.38,1
-spouse,Bad Credit,Joint Financing Strategies for Bad Credit,57.4,31
-ssangyong rodius,Car Finance Explained,Financing for Special Circumstances,60.3,1
-station wagon,Car Finance Explained,Financing for Special Circumstances,63.9,9
-statistics,Car Finance Explained,Insurance and Warranty Integration,66.7,3
-steel,Car Finance Explained,Vehicle Exchange Protocols,51.9,6
-steering,Car Finance Explained,Financing for Special Circumstances,50.8,10
-steering column,Vauxhall,Corsa Interior Features,57.38,1
-steering wheel,Car Finance Explained,Financing for Special Circumstances,56.47,5
-stereophonic sound,Car Finance Explained,Insurance and Warranty Integration,58.38,3
-stereotype,Car Finance Explained,Approval and Application Processes,42.6,1
-straight-four engine,Used,Economical Choices in Used Automobiles,57.4,2
-straight-six engine,Used,Economical Choices in Used Automobiles,51.4,1
-strategic planning,Bad Credit,Credit Assessment and Vehicle Acquisition,61.12,7
-stream,Bad Credit,Specialized Financing for Disability Benefits,46.62,17
-stroke,Car Finance Explained,Financing for Special Circumstances,43.53,1
-subsidy,Bad Credit,Specialized Financing for Disability Benefits,68.8,5
-sunroof,Car Finance Explained,Vehicle Exchange Protocols,88.75,6
-surety,Audi,Financing Options,59.56,236
-surplus value,Refinance My Car,Balloon Payment Management,64.25,39
-suv,Car Finance Explained,Vehicle Exchange Protocols,62.62,19
-suzuki,Car Finance Explained,Financing for Special Circumstances,45.62,1
-swap (finance),Car Finance Explained,Vehicle Exchange Protocols,72.1,86
-sweden,Car Finance Explained,Approval and Application Processes,35.78,1
-switch,Car Finance Explained,Financing for Special Circumstances,43.53,2
-symbol,Car Finance Locations,Traffic Sign Interpretation,54.62,87
-tariff,Car Finance Explained,Financing for Special Circumstances,46.44,1
-tartan,Car Finance Explained,Vehicle Exchange Protocols,74.9,1
-taste,Car Finance Explained,Approval and Application Processes,51.28,1
-tax,Car Finance Explained,Financing for Special Circumstances,67.4,134
-tax bracket,Car Finance Explained,Financing for Special Circumstances,30.86,1
-tax deduction,Car Finance Explained,Financing for Special Circumstances,62.25,7
-tax return,Bad Credit,Financial Instruments for Adverse Credit,68.75,31
-taxi,Car Finance Explained,Joint Financing Structures,59.16,9
-taxis of the united kingdom,Car Finance Explained,Joint Financing Structures,56.3,8
-tdi (engine),Used,Economical Choices in Used Automobiles,70.6,14
-technology,Car Finance Explained,Financing for Special Circumstances,55.8,18
-telematics,Car Finance Explained,Insurance and Warranty Integration,73.8,3
-telephone,Car Finance Explained,Insurance and Warranty Integration,54.2,3
-temperature,Car Finance Explained,Financing for Special Circumstances,47.0,10
-temporary work,Car Finance Explained,Financing for Special Circumstances,58.97,7
-termination fee,Car Finance Explained,Cooling-Off Period Regulations,53.72,197
-terrain,Car Finance Explained,Financing for Special Circumstances,46.47,3
-test drive,Car Finance Locations,Car Finance Accessibility,60.62,1
-textile,Car Finance Locations,Car Finance Accessibility,67.25,1
-thames valley police,Car Finance Explained,Insurance and Warranty Integration,51.38,10
-the great british bake off,Car Finance Explained,Approval and Application Processes,51.75,1
-the highway code,Car Finance Locations,Traffic Sign Interpretation,67.8,87
-the magnificent seven,Used,Economical Choices in Used Automobiles,44.7,1
-the motability scheme,Car Finance Explained,Financing for Special Circumstances,50.0,25
-the motor ombudsman,Car Finance Explained,Insurance and Warranty Integration,72.06,1
-the only way is essex,Car Finance Explained,Approval and Application Processes,63.1,1
-the roofbox company,Car Finance Explained,Approval and Application Processes,41.88,1
-theft,Car Finance Explained,Insurance and Warranty Integration,42.75,84
-thumb,Car Finance Explained,Insurance and Warranty Integration,52.62,13
-tide,Car Finance Explained,Financing for Special Circumstances,42.28,1
-tiger,Car Finance Explained,Vehicle Exchange Protocols,47.53,2
-tin,Van Finance,Financing Options for Vans,35.25,7
-tire,Motorbike Finance,Comprehensive Motorbike Financing,68.94,4
-title loan,Value My Car,Financial Implications of Equity,81.25,7
-tommy fury,Car Finance Explained,Approval and Application Processes,48.53,1
-tool,Car Finance Explained,Approval and Application Processes,48.72,4
-torque,Car Finance Explained,Financing for Special Circumstances,44.9,1
-touchscreen,Used,Economical Choices in Used Automobiles,58.7,15
-touring car,Car Finance Explained,Financing for Special Circumstances,43.56,8
-tow hitch,Car Finance Explained,Approval and Application Processes,57.8,1
-towel,Car Finance Locations,Car Finance Accessibility,58.28,1
-tower bridge,Used,Comparative Analysis of Vehicle Types,45.53,4
-toyota,Car Finance Explained,Insurance and Warranty Integration,58.62,8
-toyota auris,Used,Economical Choices in Used Automobiles,60.47,1
-toyota aygo,Car Finance Explained,Insurance and Warranty Integration,69.44,3
-toyota land cruiser,Car Finance Explained,Financing for Special Circumstances,49.62,1
-toyota vitz,Car Finance Explained,Financing for Special Circumstances,58.3,1
-toyota yaris,Vauxhall,Corsa Interior Features,75.8,1
-traction control system,Car Finance Explained,Financing for Special Circumstances,67.06,1
-trade,Value My Car,Financial Implications of Equity,56.62,54
-trademark,Car Finance Explained,Approval and Application Processes,46.53,1
-tradesperson,Van Finance,Financing Options for Vans,48.2,2
-traffic,Car Finance Locations,Traffic Sign Interpretation,87.06,97
-traffic collision,Car Finance Explained,Insurance and Warranty Integration,81.25,7
-traffic congestion,Car Finance Locations,Vehicle Accessibility Options,45.75,2
-traffic sign,Used,Comparative Analysis of Vehicle Types,51.38,2
-transfer (association football),Bad Credit,Joint Financing Strategies for Bad Credit,70.75,32
-transmission (mechanical device),Car Finance Explained,Financing for Special Circumstances,60.8,6
-transparency (behavior),Bad Credit,Financial Instruments for Adverse Credit,38.62,1
-transport,Bad Credit,Specialized Financing for Disability Benefits,49.44,31
-transport for london,Car Finance Locations,Vehicle Accessibility Options,46.8,2
-transunion,Car Finance Explained,Approval and Application Processes,71.8,117
-tree,Used,Economical Choices in Used Automobiles,44.47,1
-trespass,Car Finance Explained,Approval and Application Processes,34.3,1
-triangle,Car Finance Locations,Traffic Sign Interpretation,57.88,87
-trim level (automotive),Vauxhall,Corsa Interior Features,69.5,1
-trip computer,Vauxhall,Corsa Interior Features,60.4,1
-truck,Car Finance Locations,Traffic Sign Interpretation,74.8,118
-truck driver,Car Finance Locations,Traffic Sign Interpretation,74.7,87
-trump: the art of the deal,Car Finance Explained,Approval and Application Processes,56.7,5
-trunk (car),Car Finance Explained,Vehicle Exchange Protocols,74.75,27
-trust (law),Bad Credit,Alternative Financing Solutions for Impaired Credit,67.4,10
-trustee,Bad Credit,Alternative Financing Solutions for Impaired Credit,67.5,3
-trustpilot,Car Finance Explained,Cooling-Off Period Regulations,54.1,548
-truth,Used,Economical Choices in Used Automobiles,53.4,6
-turbo-diesel,Used,Economical Choices in Used Automobiles,53.72,13
-turbocharger,Used,Economical Choices in Used Automobiles,56.0,16
-turning radius,Car Finance Explained,Financing for Special Circumstances,42.47,5
-twitter,BMW,Financial Institution Insights,54.1,3
-tyneside,Car Finance Explained,Financing for Special Circumstances,43.47,1
-ultra low emission zone,Car Finance Explained,Financing for Special Circumstances,57.2,3
-ultraviolet,Car Finance Explained,Vehicle Exchange Protocols,52.2,6
-uncertainty,Car Finance Explained,Financing for Special Circumstances,43.4,1
-understanding,Value My Car,Financial Implications of Equity,46.84,145
-underwriting,Car Finance Explained,Approval and Application Processes,83.6,19
-unemployment,Bad Credit,Accessibility of Vehicle Financing,54.75,5
-united kingdom,Car Finance Explained,Cooling-Off Period Regulations,51.6,469
-universal credit,Bad Credit,Specialized Financing for Disability Benefits,65.2,60
-unsecured debt,Car Finance Explained,Cooling-Off Period Regulations,75.56,118
-unsecured guarantor loan,Car Finance Explained,Financing for Special Circumstances,75.44,72
-usability,Car Finance Explained,Vehicle Exchange Protocols,55.16,95
-use value,Car Finance Explained,Financing for Special Circumstances,45.3,1
-used car,Car Finance Explained,Financing for Special Circumstances,66.25,211
-used good,Used,Financing Mechanisms for Older Models,62.12,24
-utility,Bad Credit,Accessibility of Vehicle Financing,51.8,68
-v12 engine,Car Finance Explained,Approval and Application Processes,59.2,1
-v6 engine,Used,Comparative Analysis of Vehicle Types,52.3,2
-v8 engine,Car Finance Explained,Approval and Application Processes,66.7,1
-value (economics),Vauxhall,Corsa Interior Features,64.44,1
-valve,Car Finance Explained,Insurance and Warranty Integration,91.75,1
-van,BMW,Financial Institution Insights,66.9,19
-vandalism,Car Finance Explained,Approval and Application Processes,57.84,4
-vanity plate,Car Finance Explained,Vehicle Exchange Protocols,91.8,1
-vantagescore,Bad Credit,Credit Score Dynamics in Automotive Loans,78.6,81
-vauxhall astra,Car Finance Explained,Vehicle Exchange Protocols,80.56,6
-vauxhall bridge,Car Finance Locations,Vehicle Accessibility Options,39.34,2
-vauxhall motors,Car Finance Explained,Vehicle Exchange Protocols,61.53,19
-vehicle,Car Finance Explained,Cooling-Off Period Regulations,56.1,783
-vehicle emissions control,Car Finance Explained,Financing for Special Circumstances,60.38,2
-vehicle excise duty,Car Finance Explained,Financing for Special Circumstances,62.6,1
-vehicle frame,Car Finance Explained,Financing for Special Circumstances,52.75,1
-vehicle inspection,Car Finance Explained,Approval and Application Processes,58.03,18
-vehicle insurance,Car Finance Explained,Insurance and Warranty Integration,64.6,66
-vehicle leasing,Car Finance Explained,Financing for Special Circumstances,45.8,1
-vehicle registration certificate,Car Finance Explained,Vehicle Exchange Protocols,76.44,1
-vehicle registration plate,Car Finance Explained,Vehicle Exchange Protocols,66.25,50
-vehicle registration plates of the united kingdom,Car Finance Explained,Approval and Application Processes,82.5,34
-verification and validation,Bad Credit,Accessibility of Vehicle Financing,66.3,47
-village,Car Finance Explained,Vehicle Exchange Protocols,36.94,2
-vintage,Used,Financing Mechanisms for Older Models,53.53,24
-vintage car,Used,Financing Mechanisms for Older Models,75.4,24
-visibility,Car Finance Explained,Financing for Special Circumstances,36.62,1
-vision express,Car Finance Explained,Insurance and Warranty Integration,50.16,10
-visual acuity,Car Finance Explained,Insurance and Warranty Integration,81.7,10
-vogue (magazine),Car Finance Explained,Approval and Application Processes,51.62,1
-voice user interface,Used,Comparative Analysis of Vehicle Types,51.3,2
-volkswagen,Car Finance Explained,Vehicle Exchange Protocols,74.56,25
-volkswagen caddy,Van Finance,Van Aesthetic Classification,93.06,12
-volkswagen emissions scandal,Car Finance Explained,Financing for Special Circumstances,79.8,1
-volkswagen golf,Car Finance Explained,Approval and Application Processes,56.7,3
-volkswagen passat,Used,Comparative Analysis of Vehicle Types,68.1,2
-volkswagen polo,Vauxhall,Corsa Interior Features,82.4,1
-volkswagen touareg,Used,Economical Choices in Used Automobiles,79.6,1
-volkswagen touran,Car Finance Explained,Vehicle Exchange Protocols,76.5,7
-volume,Van Finance,Financing Options for Vans,74.1,2
-volvo,Car Finance Explained,Insurance and Warranty Integration,68.25,1
-voter identification laws in the united states,Bad Credit,Accessibility of Vehicle Financing,69.56,47
-vvt-i,Used,Comparative Analysis of Vehicle Types,59.75,2
-vxr,Used,Comparative Analysis of Vehicle Types,74.6,3
-wage,Bad Credit,Financial Instruments for Adverse Credit,42.2,7
-wales,Bad Credit,Alternative Financing Solutions for Impaired Credit,48.56,16
-walker (mobility),Car Finance Explained,Financing for Special Circumstances,42.62,1
-wallet,Motorbike Finance,Comprehensive Motorbike Financing,49.7,2
-warranty,Car Finance Explained,Cooling-Off Period Regulations,66.5,170
-warranty direct,Car Finance Explained,Insurance and Warranty Integration,76.0,1
-wear,Car Finance Explained,Voluntary Termination Mechanisms,59.62,120
-wear and tear,Car Finance Explained,Voluntary Termination Mechanisms,48.28,128
-weather,Car Finance Explained,Vehicle Exchange Protocols,53.2,9
-weight,Used,Economical Choices in Used Automobiles,50.1,12
-welfare in new zealand,Bad Credit,Accessibility of Vehicle Financing,56.9,5
-west midlands (region),Car Finance Explained,Insurance and Warranty Integration,45.8,10
-west midlands safari park,Car Finance Explained,Vehicle Exchange Protocols,72.4,2
-what car?,Vauxhall,Corsa Interior Features,70.8,1
-wheel,Car Finance Explained,Insurance and Warranty Integration,48.9,54
-wheelchair,Car Finance Explained,Financing for Special Circumstances,58.8,1
-wife,Bad Credit,Joint Financing Strategies for Bad Credit,67.9,31
-wildlife,Car Finance Explained,Vehicle Exchange Protocols,41.9,2
-wiltshire,Car Finance Explained,Vehicle Exchange Protocols,41.8,2
-window film,Used,Comparative Analysis of Vehicle Types,49.38,2
-windscreen wiper,Car Finance Explained,Vehicle Exchange Protocols,52.1,4
-windshield,Car Finance Explained,Insurance and Warranty Integration,60.62,7
-woburn safari park,Car Finance Explained,Vehicle Exchange Protocols,67.5,2
-wolf,Car Finance Explained,Vehicle Exchange Protocols,44.2,2
-worcestershire,Car Finance Explained,Vehicle Exchange Protocols,42.25,2
-word,Car Finance Explained,Approval and Application Processes,44.56,5
-working time,Bad Credit,Accessibility of Vehicle Financing,49.62,5
-world health organization,Car Finance Explained,Financing for Special Circumstances,44.1,1
-worry,BMW,Financial Institution Insights,45.1,97
-zebra,Car Finance Explained,Vehicle Exchange Protocols,50.7,2
-zoo,Car Finance Explained,Vehicle Exchange Protocols,56.53,2
-škoda auto,Used,Economical Choices in Used Automobiles,55.88,3
-škoda octavia,Used,Economical Choices in Used Automobiles,53.62,1
-škoda superb,Used,Comparative Analysis of Vehicle Types,64.06,2
+catg,subcatg,entity,count,TA_score
+Aire acondicionado,Diagnóstico del Sistema,"1,1,1,2-tetrafluoroetano",1,37.7
+Aceites y líquidos,Evaluación de Líquidos de Frenos,absorción (química),4,52.8
+Carrocería,Elementos de Seguridad Estructural,acampada,2,34.75
+Accesorios para coches,Regulaciones y Normativas de Tráfico,accidente de tránsito,1,78.0
+Aceite de motor,Uso de Aditivos,aceite,52,49.16
+Aceite de motor,Uso de Aditivos,aceite de motor,12,62.97
+Aceite de motor,Uso de Aditivos,aceite sintético,6,27.19
+Caja de cambios,Funcionalidad de Palancas,aceleración,19,45.25
+Caja de cambios,Dinámica de Velocidades,acelerador,8,49.97
+Accesorios para coches,Sistemas de Antenas Automotrices,acero,1,61.16
+Accesorios para coches,Sistemas de Antenas Automotrices,acero inoxidable,1,48.0
+Aire acondicionado,Limpieza y Conservación,acondicionamiento de aire,15,64.5
+Carrocería,Sistemas de Cierre Centralizado,actuador,5,60.0
+Caja de cambios,Dinámica de Velocidades,adherencia rueda-carril,8,67.1
+Carrocería,Accesorios de Molduras Automotrices,adhesivo,3,64.56
+Carrocería,Accesorios de Molduras Automotrices,adhesión,1,61.0
+Aceite de motor,Uso de Aditivos,aditivo alimentario,6,44.9
+Accesorios para coches,Soluciones de Purificación de Aire,adsorción,1,36.8
+Accesorios para coches,Dispositivos de Monitoreo Vehicular,advanced encryption standard,1,50.28
+Carrocería,Accesorios de Molduras Automotrices,aerodinámica,1,38.22
+Accesorios para coches,Soluciones de Purificación de Aire,agente biológico patógeno,1,41.8
+Carrocería,Sistemas de Cierre Centralizado,agua,6,50.8
+Accesorios para coches,Regulaciones y Normativas de Tráfico,agudeza visual,1,45.16
+Aire acondicionado,Diagnóstico del Sistema,agujero de la capa de ozono,1,46.84
+Aceite de motor,Uso de Aditivos,ahorro,17,42.3
+Accesorios para coches,Historial y Mantenimiento de Vehículos,airbag (automóvil),3,58.7
+Accesorios para coches,Sistemas de Antenas Automotrices,aire,22,34.94
+Aire acondicionado,Diagnóstico del Sistema,aire comprimido,1,33.6
+Accesorios para coches,Sistemas de Antenas Automotrices,aislamiento eléctrico,4,63.2
+Accesorios para coches,Dispositivos de Monitoreo Vehicular,ajuda (lisboa),1,20.56
+Accesorios para coches,Regulaciones y Normativas de Tráfico,alcohol,1,46.1
+Accesorios para coches,Soluciones de Purificación de Aire,alergia,1,45.8
+Caja de cambios,Dinámica de Velocidades,algoritmo,8,42.38
+Amortiguación,Componentes de Amortiguación Silenciosa,alta tensión eléctrica,1,41.44
+Encendido y precalentamiento,Funcionamiento de Solenoides de Arranque,alternador,3,47.9
+Accesorios para coches,Soluciones de Purificación de Aire,alérgeno,1,28.27
+Amortiguación,Evaluación de Calidad de Amortiguadores,amortiguador (automóvil),3,52.53
+Accesorios para coches,Sistemas de Antenas Automotrices,antena,3,53.53
+Aceite de motor,Uso de Aditivos,anticorrosivo,6,43.88
+Aceite de motor,Uso de Aditivos,antioxidante,7,50.72
+Aire acondicionado,Diagnóstico del Sistema,análisis técnico,2,38.3
+Carrocería,Sistemas de Cierre Centralizado,apagón eléctrico,2,64.4
+Accesorios para coches,Soluciones de Purificación de Aire,aplicación móvil,1,43.38
+Encendido y precalentamiento,Módulos y Componentes de Precalentamiento,arranque (informática),28,56.3
+Accesorios para coches,Dispositivos de Monitoreo Vehicular,arsénico,1,56.72
+Carrocería,Estructuras de Vidrio Automotriz,aseguramiento de la calidad,2,25.52
+Aire acondicionado,Diagnóstico del Sistema,atmósfera,2,36.06
+Accesorios para coches,Sistemas de Antenas Automotrices,audio para automóvil,2,28.19
+Accesorios para coches,Dispositivos de Monitoreo Vehicular,auditoría,1,42.8
+Caja de cambios,Clasificación de Transmisiones,automatización,3,63.88
+Caja de cambios,Clasificación de Transmisiones,automovilismo,3,54.62
+Aceite de motor,Uso de Aditivos,automóvil,127,54.88
+Carrocería,Elementos de Seguridad Estructural,automóvil de carreras,2,33.6
+Accesorios para coches,Regulaciones y Normativas de Tráfico,automóvil eléctrico,5,73.25
+Caja de cambios,Tipología de Palancas,autopista,1,41.62
+Aceite de motor,Uso de Aditivos,azufre,6,45.16
+Aire acondicionado,Diagnóstico del Sistema,bacteria,2,37.66
+Accesorios para coches,Sistemas de Antenas Automotrices,bandas de frecuencia,1,48.38
+Aceite de motor,Uso de Aditivos,barniz,6,31.81
+Amortiguación,Componentes de Amortiguación Silenciosa,barra estabilizadora,1,58.03
+Carrocería,Elementos de Seguridad Estructural,barra fija,2,31.81
+Accesorios para coches,Historial y Mantenimiento de Vehículos,bastidor (vehículo),3,51.1
+Aire acondicionado,Limpieza y Conservación,basura,8,58.62
+Encendido y precalentamiento,Bujías de Precalentamiento y Tipos,batería (electricidad),44,61.2
+Accesorios para coches,Regulaciones y Normativas de Tráfico,bebida alcohólica,1,43.75
+Accesorios para coches,Sistemas de Antenas Automotrices,blaupunkt,2,23.42
+Aceite de motor,Uso de Aditivos,bloque del motor,8,36.16
+Carrocería,Sistemas de Cierre Centralizado,bloqueo (ferrocarril),2,68.44
+Accesorios para coches,Dispositivos de Monitoreo Vehicular,bluetooth,1,74.56
+Aire acondicionado,Diagnóstico del Sistema,bomba de calor y ciclo de refrigeración,2,63.25
+Aire acondicionado,Diagnóstico del Sistema,bomba de vacío,2,28.36
+Aire acondicionado,Diagnóstico del Sistema,bomba hidráulica,6,50.62
+Carrocería,Accesorios de Molduras Automotrices,brocha (instrumento),1,46.47
+Encendido y precalentamiento,Bujías de Precalentamiento y Tipos,bujía,29,68.2
+Encendido y precalentamiento,Módulos y Componentes de Precalentamiento,bujía de precalentamiento,28,80.5
+Accesorios para coches,Sistemas de Antenas Automotrices,cable,4,42.47
+Accesorios para coches,Sistemas de Antenas Automotrices,caja de cambios,52,67.4
+Calefacción y ventilación,Control de Temperatura Automotriz,calefacción,3,59.97
+Aire acondicionado,Diagnóstico del Sistema,calentamiento global,1,45.8
+Accesorios para coches,Dispositivos de Monitoreo Vehicular,calibración,1,34.12
+Encendido y precalentamiento,Funcionamiento de Solenoides de Arranque,calidad,3,55.6
+Accesorios para coches,Soluciones de Purificación de Aire,calidad del aire interior,1,34.75
+"Correas, cadenas, rodillos",Aplicaciones en Motores,calor,41,49.9
+Accesorios para coches,Sistemas de Antenas Automotrices,camión,1,58.53
+Encendido y precalentamiento,Funcionamiento de Solenoides de Arranque,campo magnético,3,48.1
+Aire acondicionado,Diagnóstico del Sistema,capa de ozono,1,43.38
+Aire acondicionado,Diagnóstico del Sistema,carbono,2,45.38
+Accesorios para coches,Soluciones de Purificación de Aire,carbón,1,32.9
+Accesorios para coches,Soluciones de Purificación de Aire,carbón activado,1,46.62
+Aire acondicionado,Diagnóstico del Sistema,cargas térmicas de climatización,1,44.53
+Aceite de motor,Uso de Aditivos,carretera,32,49.3
+"Correas, cadenas, rodillos",Aplicaciones en Motores,caucho natural,31,66.8
+"Correas, cadenas, rodillos",Aplicaciones en Motores,caucho sintético,31,51.72
+Carrocería,Elementos de Seguridad Estructural,centro de gravedad,2,29.16
+Carrocería,Sistemas de Cierre Centralizado,cerradura,2,52.8
+Accesorios para coches,Regulaciones y Normativas de Tráfico,cerveza,1,51.12
+Carrocería,Elementos de Seguridad Estructural,chasis,2,69.1
+Aire acondicionado,Mantenimiento del Compresor,choque eléctrico,2,45.62
+Carrocería,Sistemas de Cierre Centralizado,cierre centralizado,2,58.47
+"Correas, cadenas, rodillos",Aplicaciones en Motores,cigüeñal,39,61.62
+Encendido y precalentamiento,Bujías de Precalentamiento y Tipos,cilindro (motor),2,31.4
+Accesorios para coches,Sistemas de Antenas Automotrices,cinta aislante,4,41.03
+Encendido y precalentamiento,Módulos y Componentes de Precalentamiento,circuito,39,64.6
+Encendido y precalentamiento,Módulos y Componentes de Precalentamiento,clic (informática),28,57.1
+Encendido y precalentamiento,Funcionamiento de Solenoides de Arranque,cliente (economía),10,44.0
+Carrocería,Sistemas de Cierre Centralizado,cliente (informática),2,41.72
+Accesorios para coches,Sistemas de Antenas Automotrices,clima,22,42.53
+Aire acondicionado,Limpieza y Conservación,climatización,12,61.7
+Aire acondicionado,Diagnóstico del Sistema,climatización en vehículos,1,29.7
+Calefacción y ventilación,Control de Temperatura Automotriz,climatizador,1,68.2
+Encendido y precalentamiento,Bujías de Precalentamiento y Tipos,cobre,1,53.8
+Aceite de motor,Uso de Aditivos,cojinete,24,64.6
+Aceites y líquidos,Evaluación de Líquidos de Frenos,color,5,47.62
+Aceite de motor,Uso de Aditivos,combustible,69,40.72
+Aceite de motor,Uso de Aditivos,combustión,44,47.84
+Accesorios para coches,Sistemas de Antenas Automotrices,competitividad,2,53.56
+Accesorios para coches,Dispositivos de Monitoreo Vehicular,componente electrónico,1,59.38
+Caja de cambios,Funcionalidad de Palancas,comportamiento,7,49.12
+Aire acondicionado,Limpieza y Conservación,compresor (máquina),11,53.47
+Aire acondicionado,Limpieza y Conservación,compresor de aire,10,53.9
+Aceite de motor,Uso de Aditivos,compuesto químico,10,42.2
+Accesorios para coches,Dispositivos de Monitoreo Vehicular,computadora,1,69.06
+Accesorios para coches,Sistemas de Antenas Automotrices,comunicación,1,53.88
+Accesorios para coches,Regulaciones y Normativas de Tráfico,concesionario de automóviles,5,62.75
+Aire acondicionado,Diagnóstico del Sistema,condensación (cambio de estado),2,64.9
+Aire acondicionado,Limpieza y Conservación,condensador (termodinámica),8,60.75
+Aire acondicionado,Diagnóstico del Sistema,condensador eléctrico,1,35.4
+Aceite de motor,Uso de Aditivos,conducción de calor,13,39.3
+Encendido y precalentamiento,Bujías de Precalentamiento y Tipos,conducción eléctrica,6,53.47
+Encendido y precalentamiento,Bujías de Precalentamiento y Tipos,conductividad eléctrica,3,39.4
+Accesorios para coches,Sistemas de Antenas Automotrices,conector eléctrico,38,70.4
+Accesorios para coches,Regulaciones y Normativas de Tráfico,congreso de los diputados,6,49.38
+Carrocería,Estructuras de Vidrio Automotriz,conocimiento,5,58.47
+"Correas, cadenas, rodillos",Aplicaciones en Motores,construcción,31,55.03
+Accesorios para coches,Soluciones de Purificación de Aire,consumidor,4,51.38
+Aire acondicionado,Mantenimiento del Compresor,consumo,1,36.84
+Accesorios para coches,Soluciones de Purificación de Aire,consumo y recursos energéticos a nivel mundial,7,35.12
+Encendido y precalentamiento,Bujías de Precalentamiento y Tipos,contacto eléctrico,1,38.12
+Aceite de motor,Uso de Aditivos,contaminación,86,55.12
+Accesorios para coches,Soluciones de Purificación de Aire,contaminación atmosférica,1,48.62
+Accesorios para coches,Regulaciones y Normativas de Tráfico,control de alcoholemia,1,71.2
+Caja de cambios,Clasificación de Transmisiones,control de tracción,11,58.6
+Carrocería,Sistemas de Cierre Centralizado,control remoto,2,63.8
+Aire acondicionado,Diagnóstico del Sistema,corazón,1,39.75
+"Correas, cadenas, rodillos",Aplicaciones en Motores,correa de distribución,31,76.2
+Encendido y precalentamiento,Módulos y Componentes de Precalentamiento,corriente eléctrica,36,64.8
+Aceite de motor,Uso de Aditivos,corrosión,50,54.56
+Accesorios para coches,Sistemas de Antenas Automotrices,cortocircuito,44,51.9
+Carrocería,Elementos de Seguridad Estructural,coste total de propiedad,2,42.12
+Aceite de motor,Uso de Aditivos,creencia,6,37.4
+Carrocería,Estructuras de Vidrio Automotriz,cristal,3,41.2
+Accesorios para coches,Dispositivos de Monitoreo Vehicular,cumplimiento normativo,1,45.6
+Accesorios para coches,Dispositivos de Monitoreo Vehicular,dato,1,39.75
+Accesorios para coches,Sistemas de Antenas Automotrices,demanda (economía),3,48.84
+Accesorios para coches,Dispositivos de Monitoreo Vehicular,derecho de la unión europea,1,36.75
+Aceite de motor,Uso de Aditivos,derivado del petróleo,6,30.38
+Encendido y precalentamiento,Bujías de Precalentamiento y Tipos,descarga electrostática,1,48.1
+Aceite de motor,Temperatura del Aceite,descomposición,5,34.16
+Aceite de motor,Uso de Aditivos,desgaste,51,38.75
+Calefacción y ventilación,Control de Temperatura Automotriz,deshumidificador,1,52.56
+Accesorios para coches,Sistemas de Antenas Automotrices,destornillador,4,50.8
+Aceite de motor,Uso de Aditivos,detergente,7,46.47
+Encendido y precalentamiento,Módulos y Componentes de Precalentamiento,diagnóstico,54,44.25
+Carrocería,Accesorios de Molduras Automotrices,dinero,1,30.05
+Caja de cambios,Tipología de Palancas,dinámica,12,52.25
+Accesorios para coches,Historial y Mantenimiento de Vehículos,dirección general de tráfico,3,60.12
+Accesorios para coches,Sistemas de Antenas Automotrices,diseño,38,56.1
+Calefacción y ventilación,Control de Temperatura Automotriz,disolución,2,27.94
+Carrocería,Accesorios de Molduras Automotrices,disolvente,2,69.9
+Encendido y precalentamiento,Funcionamiento de Solenoides de Arranque,disponibilidad,5,55.62
+Accesorios para coches,Dispositivos de Monitoreo Vehicular,dispositivo digital,1,33.34
+Aire acondicionado,Diagnóstico del Sistema,distribución uniforme continua,1,30.02
+Aceite de motor,Temperatura del Aceite,diésel,1,39.62
+Aceites y líquidos,Evaluación de Líquidos de Frenos,ebullición,4,68.56
+Aceite de motor,Temperatura del Aceite,economía,1,22.5
+Aceite de motor,Temperatura del Aceite,economía de combustible en automóviles,1,34.66
+"Correas, cadenas, rodillos",Aplicaciones en Motores,educación,32,51.53
+Aceite de motor,Uso de Aditivos,eficiencia,77,32.22
+Accesorios para coches,Soluciones de Purificación de Aire,eficiencia energética,2,52.88
+Aire acondicionado,Diagnóstico del Sistema,electricidad,1,44.84
+Encendido y precalentamiento,Bujías de Precalentamiento y Tipos,electrodo,1,33.84
+Encendido y precalentamiento,Esquemas y Conexiones Eléctricas,electroimán,2,53.2
+Encendido y precalentamiento,Funcionamiento de Solenoides de Arranque,electromagnetismo,3,56.88
+Encendido y precalentamiento,Funcionamiento de Solenoides de Arranque,electromecánica,5,48.1
+Accesorios para coches,Sistemas de Antenas Automotrices,electrónica,22,52.3
+Caja de cambios,Funcionalidad de Palancas,embrague,12,63.62
+"Correas, cadenas, rodillos",Aplicaciones en Motores,emisiones,77,56.44
+Aire acondicionado,Garantías y Repuestos,empresa,2,57.44
+Encendido y precalentamiento,Módulos y Componentes de Precalentamiento,encendido del motor,28,44.03
+"Correas, cadenas, rodillos",Aplicaciones en Motores,energía,76,49.47
+Encendido y precalentamiento,Funcionamiento de Solenoides de Arranque,energía eléctrica,3,49.25
+Accesorios para coches,Soluciones de Purificación de Aire,enfermedad,1,31.1
+Caja de cambios,Funcionalidad de Palancas,engranaje,7,56.8
+Aire acondicionado,Mantenimiento del Compresor,equipo de protección individual,2,30.52
+Caja de cambios,Tipología de Palancas,ergonomía,4,71.4
+Accesorios para coches,Dispositivos de Monitoreo Vehicular,escritura,1,29.45
+Carrocería,Sistemas de Cierre Centralizado,escáner,2,32.53
+Accesorios para coches,Historial y Mantenimiento de Vehículos,españa,8,50.56
+Accesorios para coches,Soluciones de Purificación de Aire,espora,1,33.1
+Aceite de motor,Uso de Aditivos,espuma,6,38.7
+Carrocería,Accesorios de Molduras Automotrices,espátula,2,36.5
+Carrocería,Estructuras de Vidrio Automotriz,estado,2,41.3
+Accesorios para coches,Historial y Mantenimiento de Vehículos,estado de los estados unidos,3,40.66
+Accesorios para coches,Regulaciones y Normativas de Tráfico,estadística,1,56.75
+Accesorios para coches,Regulaciones y Normativas de Tráfico,estonia,1,50.25
+Carrocería,Elementos de Seguridad Estructural,estrés,2,53.56
+Caja de cambios,Dinámica de Velocidades,estática (mecánica),8,51.88
+Accesorios para coches,Sistemas de Antenas Automotrices,estética,8,43.16
+Aire acondicionado,Garantías y Repuestos,euro,7,53.16
+Accesorios para coches,Regulaciones y Normativas de Tráfico,europa,5,48.47
+Aire acondicionado,Diagnóstico del Sistema,evaporación,1,52.56
+Aire acondicionado,Limpieza y Conservación,evaporador,8,65.75
+Accesorios para coches,Sistemas de Antenas Automotrices,evolución biológica,5,56.75
+Accesorios para coches,Sistemas de Antenas Automotrices,evolución tecnológica,2,37.56
+Accesorios para coches,Dispositivos de Monitoreo Vehicular,factor limitante,1,23.42
+Caja de cambios,Tipología de Palancas,fatiga de materiales,4,54.44
+Amortiguación,Componentes de Amortiguación Silenciosa,felis silvestris catus,1,55.0
+Calefacción y ventilación,Control de Temperatura Automotriz,fenómeno,1,33.0
+Aceite de motor,Uso de Aditivos,fiabilidad de sistemas,44,62.97
+Aceite de motor,Uso de Aditivos,filtración,12,42.2
+Aire acondicionado,Limpieza y Conservación,filtro (hidráulica),15,53.2
+Accesorios para coches,Historial y Mantenimiento de Vehículos,filtro de aceite,3,70.06
+Aire acondicionado,Limpieza y Conservación,filtro de aire,7,66.44
+"Correas, cadenas, rodillos",Aplicaciones en Motores,flexibilidad (anatomía),32,53.6
+Caja de cambios,Funcionalidad de Palancas,fluido,8,38.56
+Encendido y precalentamiento,Funcionamiento de Solenoides de Arranque,flujo,7,44.44
+Aire acondicionado,Diagnóstico del Sistema,fluorescencia,1,35.84
+Accesorios para coches,Dispositivos de Monitoreo Vehicular,formato de archivo,1,45.38
+Aceite de motor,Uso de Aditivos,frecuencia,12,38.1
+Aceites y líquidos,Evaluación de Líquidos de Frenos,freno,4,32.2
+Aceite de motor,Uso de Aditivos,fricción,49,42.7
+Accesorios para coches,Sistemas de Antenas Automotrices,fuente de alimentación,30,73.1
+Carrocería,Accesorios de Molduras Automotrices,fuerza,14,55.38
+Accesorios para coches,Sistemas de Antenas Automotrices,función (matemática),16,43.72
+Encendido y precalentamiento,Módulos y Componentes de Precalentamiento,fusible,36,60.8
+Accesorios para coches,Sistemas de Antenas Automotrices,física,3,37.22
+Aceite de motor,Uso de Aditivos,fórmula química,6,42.62
+Aceite de motor,Uso de Aditivos,fósforo,6,47.38
+Carrocería,Accesorios de Molduras Automotrices,gafas,5,48.72
+Accesorios para coches,Sistemas de Antenas Automotrices,ganancia (electrónica),2,26.84
+Aceite de motor,Uso de Aditivos,garantía,9,41.25
+Aire acondicionado,Diagnóstico del Sistema,gas,2,50.38
+Aire acondicionado,Diagnóstico del Sistema,gas de efecto invernadero,1,54.28
+Aceite de motor,Temperatura del Aceite,gasolina,1,40.0
+Amortiguación,Componentes de Amortiguación Silenciosa,gato (dispositivo),1,58.3
+Amortiguación,Componentes de Amortiguación Silenciosa,geometría,1,48.84
+Amortiguación,Componentes de Amortiguación Silenciosa,geometría de la suspensión,1,72.56
+Accesorios para coches,Sistemas de Antenas Automotrices,gestión,2,49.38
+Accesorios para coches,Sistemas de Antenas Automotrices,gestión de flotas,2,71.1
+Aire acondicionado,Garantías y Repuestos,gestión de riesgos,1,38.78
+Accesorios para coches,Sistemas de Antenas Automotrices,gps,3,59.88
+Aceite de motor,Temperatura del Aceite,grado celsius,5,23.95
+Aceite de motor,Temperatura del Aceite,grado sexagesimal,5,22.56
+Carrocería,Accesorios de Molduras Automotrices,grasa,1,40.56
+Accesorios para coches,Historial y Mantenimiento de Vehículos,grasa (lubricante),3,72.9
+Carrocería,Elementos de Seguridad Estructural,gravedad,4,35.47
+Carrocería,Accesorios de Molduras Automotrices,guante,3,62.3
+Accesorios para coches,Soluciones de Purificación de Aire,hepa,1,54.62
+Encendido y precalentamiento,Módulos y Componentes de Precalentamiento,herramienta,38,58.47
+Aceite de motor,Uso de Aditivos,hidrocarburo,6,53.6
+Caja de cambios,Funcionalidad de Palancas,hidráulica,8,45.2
+Accesorios para coches,Sistemas de Antenas Automotrices,hielo,1,48.03
+Aceite de motor,Temperatura del Aceite,hollín,1,38.38
+Caja de cambios,Clasificación de Transmisiones,homo sapiens,3,56.8
+Aire acondicionado,Diagnóstico del Sistema,huella de carbono,1,50.03
+Aceite de motor,Uso de Aditivos,humedad,21,34.9
+Calefacción y ventilación,Control de Temperatura Automotriz,humedad del aire,1,68.2
+Caja de cambios,Clasificación de Transmisiones,háptica,3,60.9
+Aire acondicionado,Diagnóstico del Sistema,impacto ambiental,5,51.16
+Encendido y precalentamiento,Funcionamiento de Solenoides de Arranque,inductor,4,56.8
+Aire acondicionado,Diagnóstico del Sistema,industria,5,56.9
+Aire acondicionado,Diagnóstico del Sistema,industria automotriz,8,63.72
+Aceite de motor,Uso de Aditivos,información,74,47.1
+Accesorios para coches,Dispositivos de Monitoreo Vehicular,infraestructura urbana,1,45.38
+Encendido y precalentamiento,Funcionamiento de Solenoides de Arranque,ingeniería eléctrica,4,67.1
+Aceite de motor,Uso de Aditivos,inhibidor enzimático,6,41.8
+Accesorios para coches,Soluciones de Purificación de Aire,innovación,6,42.9
+Caja de cambios,Dinámica de Velocidades,inteligencia,8,50.1
+Caja de cambios,Dinámica de Velocidades,inteligencia artificial,8,62.8
+Accesorios para coches,Historial y Mantenimiento de Vehículos,interenfriador,3,71.0
+Caja de cambios,Clasificación de Transmisiones,interfaz,3,45.88
+Encendido y precalentamiento,Funcionamiento de Solenoides de Arranque,interruptor,8,52.25
+Aire acondicionado,Diagnóstico del Sistema,invernadero,1,36.9
+"Correas, cadenas, rodillos",Aplicaciones en Motores,inversión,41,48.28
+Carrocería,Estructuras de Vidrio Automotriz,investigación,2,40.8
+Carrocería,Estructuras de Vidrio Automotriz,investigación de mercados,2,47.47
+Aire acondicionado,Diagnóstico del Sistema,invierno,2,33.38
+Accesorios para coches,Historial y Mantenimiento de Vehículos,inyección de combustible,3,80.0
+Accesorios para coches,Soluciones de Purificación de Aire,ion,1,30.77
+Accesorios para coches,Soluciones de Purificación de Aire,ionización,1,43.62
+Encendido y precalentamiento,Bujías de Precalentamiento y Tipos,iridio,1,48.7
+Accesorios para coches,Dispositivos de Monitoreo Vehicular,isso,3,37.66
+Carrocería,Elementos de Seguridad Estructural,jaula de seguridad,2,54.47
+Accesorios para coches,Regulaciones y Normativas de Tráfico,kilogramo,1,43.6
+Accesorios para coches,Soluciones de Purificación de Aire,laboratorio,1,39.22
+Caja de cambios,Clasificación de Transmisiones,lenguaje de programación,3,65.0
+Accesorios para coches,Regulaciones y Normativas de Tráfico,ley,1,42.72
+Aire acondicionado,Limpieza y Conservación,limpieza,9,38.88
+Accesorios para coches,Historial y Mantenimiento de Vehículos,litio,3,47.88
+Accesorios para coches,Regulaciones y Normativas de Tráfico,litro,1,41.75
+Encendido y precalentamiento,Funcionamiento de Solenoides de Arranque,llave,3,46.56
+Calefacción y ventilación,Control de Temperatura Automotriz,lluvia,1,48.53
+Accesorios para coches,Sistemas de Antenas Automotrices,logística,2,57.0
+Aceite de motor,Uso de Aditivos,longevidad,39,45.97
+"Correas, cadenas, rodillos",Aplicaciones en Motores,lubricación,49,49.75
+Aceite de motor,Uso de Aditivos,lubricante,23,63.16
+Accesorios para coches,Historial y Mantenimiento de Vehículos,luz,4,43.53
+Aceite de motor,Uso de Aditivos,líquido,12,52.4
+Aceites y líquidos,Evaluación de Líquidos de Frenos,líquido de frenos,4,55.38
+Accesorios para coches,Dispositivos de Monitoreo Vehicular,macrodatos,1,75.94
+Aire acondicionado,Diagnóstico del Sistema,manguera,1,24.58
+"Correas, cadenas, rodillos",Aplicaciones en Motores,mano de obra,38,44.3
+"Correas, cadenas, rodillos",Aplicaciones en Motores,mantenimiento preventivo,74,66.7
+Aire acondicionado,Limpieza y Conservación,manómetro,10,36.38
+Carrocería,Estructuras de Vidrio Automotriz,marca,3,47.1
+Aire acondicionado,Mantenimiento del Compresor,mascarilla,1,33.47
+Caja de cambios,Funcionalidad de Palancas,mecanismo,7,45.8
+Caja de cambios,Funcionalidad de Palancas,mecanismo sincronizador,7,52.2
+Accesorios para coches,Soluciones de Purificación de Aire,mecánica,2,29.72
+Accesorios para coches,Sistemas de Antenas Automotrices,medición,16,50.3
+Aire acondicionado,Diagnóstico del Sistema,medio ambiente natural,6,52.1
+Accesorios para coches,Sistemas de Antenas Automotrices,mercado,13,48.75
+Aceite de motor,Uso de Aditivos,metal,7,43.0
+Encendido y precalentamiento,Bujías de Precalentamiento y Tipos,metal precioso,1,39.5
+Accesorios para coches,Soluciones de Purificación de Aire,microorganismo,1,41.88
+Accesorios para coches,Soluciones de Purificación de Aire,micrómetro (unidad de longitud),1,21.55
+Aceite de motor,Uso de Aditivos,mineral,7,37.84
+Accesorios para coches,Sistemas de Antenas Automotrices,miniaturización,1,54.47
+Accesorios para coches,Regulaciones y Normativas de Tráfico,ministerio del interior (españa),1,51.62
+Carrocería,Estructuras de Vidrio Automotriz,modelo estándar de la física de partículas,2,31.77
+Aire acondicionado,Diagnóstico del Sistema,moho,2,38.8
+Carrocería,Accesorios de Molduras Automotrices,moldura,4,30.6
+Aire acondicionado,Diagnóstico del Sistema,montreal,1,34.3
+Aceite de motor,Uso de Aditivos,motor,101,55.2
+Encendido y precalentamiento,Funcionamiento de Solenoides de Arranque,motor de arranque,5,55.75
+"Correas, cadenas, rodillos",Aplicaciones en Motores,motor de combustión interna,35,70.5
+Aceite de motor,Temperatura del Aceite,motor de gasolina,1,52.9
+Encendido y precalentamiento,Módulos y Componentes de Precalentamiento,motor diésel,32,67.25
+"Correas, cadenas, rodillos",Aplicaciones en Motores,motor en línea,31,52.8
+Accesorios para coches,Dispositivos de Monitoreo Vehicular,multa,1,50.4
+Accesorios para coches,Sistemas de Antenas Automotrices,multímetro,39,72.2
+Encendido y precalentamiento,Funcionamiento de Solenoides de Arranque,máquina eléctrica,3,39.88
+Accesorios para coches,Sistemas de Antenas Automotrices,navegación,1,70.4
+Amortiguación,Evaluación de Calidad de Amortiguadores,neumático,4,77.0
+Accesorios para coches,Dispositivos de Monitoreo Vehicular,nicho de mercado,1,22.58
+Accesorios para coches,Sistemas de Antenas Automotrices,nieve,2,55.25
+Aire acondicionado,Diagnóstico del Sistema,nitrógeno,1,38.2
+Encendido y precalentamiento,Bujías de Precalentamiento y Tipos,níquel,1,45.62
+Accesorios para coches,Historial y Mantenimiento de Vehículos,número de chasis,3,47.38
+Accesorios para coches,Dispositivos de Monitoreo Vehicular,obsolescencia,1,35.16
+Carrocería,Elementos de Seguridad Estructural,ocio,2,47.9
+Aire acondicionado,Diagnóstico del Sistema,olor,1,36.72
+Aceite de motor,Uso de Aditivos,optimización (matemática),16,47.7
+Aire acondicionado,Diagnóstico del Sistema,ozono,2,46.1
+Caja de cambios,Funcionalidad de Palancas,palanca,11,50.6
+Caja de cambios,Funcionalidad de Palancas,palanca de cambios (automóvil),10,47.7
+Aceite de motor,Temperatura del Aceite,panel de instrumentos,5,41.3
+Encendido y precalentamiento,Bujías de Precalentamiento y Tipos,papel,4,42.16
+Carrocería,Accesorios de Molduras Automotrices,papel de lija,1,69.25
+Encendido y precalentamiento,Bujías de Precalentamiento y Tipos,par motor,12,67.5
+Accesorios para coches,Historial y Mantenimiento de Vehículos,parabrisas,8,57.2
+Accesorios para coches,Soluciones de Purificación de Aire,partículas en suspensión,1,38.78
+Accesorios para coches,Regulaciones y Normativas de Tráfico,percepción,2,40.44
+Aire acondicionado,Mantenimiento del Compresor,perno,1,32.12
+Carrocería,Accesorios de Molduras Automotrices,perspectiva,1,41.62
+Aceite de motor,Uso de Aditivos,petróleo,6,52.25
+Aire acondicionado,Mantenimiento del Compresor,piel,1,29.56
+Carrocería,Accesorios de Molduras Automotrices,pintura (material),3,64.75
+Encendido y precalentamiento,Módulos y Componentes de Precalentamiento,pinza,28,56.75
+Accesorios para coches,Sistemas de Antenas Automotrices,pioneer corporation,2,31.94
+Aceite de motor,Uso de Aditivos,pistón,46,55.38
+Accesorios para coches,Sistemas de Antenas Automotrices,planeamiento,3,58.84
+Encendido y precalentamiento,Bujías de Precalentamiento y Tipos,platino,1,38.62
+Accesorios para coches,Sistemas de Antenas Automotrices,plástico,6,50.84
+"Correas, cadenas, rodillos",Aplicaciones en Motores,polea,43,64.4
+Accesorios para coches,Soluciones de Purificación de Aire,polen,1,36.34
+Carrocería,Accesorios de Molduras Automotrices,policloruro de vinilo,1,32.34
+Carrocería,Accesorios de Molduras Automotrices,poliuretano,2,46.1
+Aceite de motor,Uso de Aditivos,polvo,8,38.7
+Aceite de motor,Uso de Aditivos,polímero,6,48.72
+Accesorios para coches,Dispositivos de Monitoreo Vehicular,ponto,1,44.72
+Accesorios para coches,Soluciones de Purificación de Aire,portabilidad,1,33.56
+Aceite de motor,Uso de Aditivos,potencia (física),58,50.84
+Carrocería,Estructuras de Vidrio Automotriz,precio,6,49.7
+Aceite de motor,Temperatura del Aceite,precisión,5,26.66
+Aire acondicionado,Limpieza y Conservación,presión,21,48.88
+Encendido y precalentamiento,Funcionamiento de Solenoides de Arranque,presupuesto,9,57.84
+Accesorios para coches,Historial y Mantenimiento de Vehículos,privacidad en internet,2,51.03
+Calefacción y ventilación,Control de Temperatura Automotriz,probabilidad,2,47.44
+Accesorios para coches,Historial y Mantenimiento de Vehículos,proceso de decisión de compra,2,43.8
+Aire acondicionado,Diagnóstico del Sistema,proceso termodinámico,1,24.69
+Carrocería,Accesorios de Molduras Automotrices,producto químico,3,44.0
+Carrocería,Sistemas de Cierre Centralizado,programación,3,50.44
+Accesorios para coches,Dispositivos de Monitoreo Vehicular,proteo,1,39.06
+Aire acondicionado,Diagnóstico del Sistema,protocolo de montreal,1,58.28
+Accesorios para coches,Regulaciones y Normativas de Tráfico,prórroga (deporte),5,39.0
+Aceites y líquidos,Evaluación de Líquidos de Frenos,punto de ebullición,4,55.84
+Accesorios para coches,Soluciones de Purificación de Aire,purificador de aire,1,61.53
+Accesorios para coches,Historial y Mantenimiento de Vehículos,página web,2,17.86
+Aire acondicionado,Mantenimiento del Compresor,quemadura,1,39.03
+Aceite de motor,Uso de Aditivos,química,6,43.53
+Accesorios para coches,Soluciones de Purificación de Aire,radiación ultravioleta,2,39.62
+Accesorios para coches,Sistemas de Antenas Automotrices,radiador,1,53.03
+Aire acondicionado,Diagnóstico del Sistema,radiador (motores),2,58.16
+Aceite de motor,Uso de Aditivos,radical (química),6,38.3
+Accesorios para coches,Sistemas de Antenas Automotrices,radio (medio de comunicación),2,52.0
+Accesorios para coches,Sistemas de Antenas Automotrices,radio digital,2,56.28
+Accesorios para coches,Sistemas de Antenas Automotrices,radiocomunicación,1,67.3
+Caja de cambios,Clasificación de Transmisiones,realidad,3,52.28
+Caja de cambios,Clasificación de Transmisiones,realimentación,3,56.6
+Aire acondicionado,Diagnóstico del Sistema,reciclaje,1,46.2
+Amortiguación,Evaluación de Calidad de Amortiguadores,recta,3,41.03
+Accesorios para coches,Regulaciones y Normativas de Tráfico,red social,1,38.03
+Aceite de motor,Uso de Aditivos,reducción-oxidación,48,45.16
+Aire acondicionado,Diagnóstico del Sistema,refrigeración,9,43.6
+Aire acondicionado,Diagnóstico del Sistema,refrigeración por compresión,1,64.1
+Aire acondicionado,Limpieza y Conservación,refrigerante,10,55.2
+Aire acondicionado,Diagnóstico del Sistema,refrigerante (refrigeración),2,43.3
+Aire acondicionado,Diagnóstico del Sistema,reglamento,1,35.62
+Caja de cambios,Dinámica de Velocidades,relación de transmisión,8,56.12
+Encendido y precalentamiento,Módulos y Componentes de Precalentamiento,relé,34,71.94
+Aceite de motor,Temperatura del Aceite,rendimiento térmico,1,20.08
+Carrocería,Accesorios de Molduras Automotrices,resina epoxi,1,57.28
+Encendido y precalentamiento,Funcionamiento de Solenoides de Arranque,resistencia eléctrica,3,42.2
+Encendido y precalentamiento,Módulos y Componentes de Precalentamiento,resistor,34,61.72
+Aire acondicionado,Mantenimiento del Compresor,respetuoso con el medio ambiente,1,22.4
+Caja de cambios,Dinámica de Velocidades,revolución por minuto,8,35.6
+Accesorios para coches,Regulaciones y Normativas de Tráfico,riesgo,2,41.8
+Carrocería,Elementos de Seguridad Estructural,rigidez,2,61.12
+Carrocería,Elementos de Seguridad Estructural,rigidez estructural,2,45.62
+Amortiguación,Evaluación de Calidad de Amortiguadores,rodadura,3,42.62
+Accesorios para coches,Dispositivos de Monitoreo Vehicular,rodas,1,47.4
+"Correas, cadenas, rodillos",Aplicaciones en Motores,rotacional,31,41.38
+Caja de cambios,Tipología de Palancas,rueda,12,48.6
+"Correas, cadenas, rodillos",Aplicaciones en Motores,ruido,33,51.7
+Aceite de motor,Uso de Aditivos,sal (química),6,46.6
+Aire acondicionado,Mantenimiento del Compresor,salud,1,32.9
+Accesorios para coches,Regulaciones y Normativas de Tráfico,sangre,1,46.0
+Aceite de motor,Uso de Aditivos,satisfacción del cliente,15,46.3
+Accesorios para coches,Sistemas de Antenas Automotrices,satélite artificial,1,50.16
+Aire acondicionado,Mantenimiento del Compresor,scroll,1,33.9
+Aire acondicionado,Garantías y Repuestos,seguridad,2,45.56
+Calefacción y ventilación,Control de Temperatura Automotriz,seguridad vial,6,48.38
+Caja de cambios,Funcionalidad de Palancas,sensor,27,50.47
+Accesorios para coches,Sistemas de Antenas Automotrices,señal analógica,3,42.1
+Accesorios para coches,Sistemas de Antenas Automotrices,señal de audio,2,38.94
+Caja de cambios,Clasificación de Transmisiones,sistema,3,64.8
+Accesorios para coches,Historial y Mantenimiento de Vehículos,sistema complejo,3,40.53
+Caja de cambios,Clasificación de Transmisiones,sistema de control,11,55.12
+Aire acondicionado,Diagnóstico del Sistema,sistema de drenaje,1,30.36
+Caja de cambios,Clasificación de Transmisiones,sistema de electrificación ferroviaria,3,59.6
+Carrocería,Sistemas de Cierre Centralizado,sistema de suministro eléctrico,3,47.47
+Caja de cambios,Funcionalidad de Palancas,sistema de transmisión,7,31.86
+Aire acondicionado,Diagnóstico del Sistema,sistema frigorífico,9,37.72
+Accesorios para coches,Sistemas de Antenas Automotrices,sistema global de navegación por satélite,1,70.94
+Carrocería,Sistemas de Cierre Centralizado,software,13,60.56
+Carrocería,Accesorios de Molduras Automotrices,sol,1,30.3
+Aire acondicionado,Diagnóstico del Sistema,soldadura,1,38.72
+Encendido y precalentamiento,Funcionamiento de Solenoides de Arranque,solenoide,5,42.28
+Accesorios para coches,Sistemas de Antenas Automotrices,sonido,34,49.62
+Aire acondicionado,Diagnóstico del Sistema,sostenibilidad,5,58.75
+Aire acondicionado,Diagnóstico del Sistema,succión,1,29.44
+Aire acondicionado,Limpieza y Conservación,suciedad,5,31.55
+Accesorios para coches,Regulaciones y Normativas de Tráfico,suecia,1,50.1
+Amortiguación,Evaluación de Calidad de Amortiguadores,suspensión (automóvil),4,74.9
+Aceite de motor,Uso de Aditivos,sustancia química,6,42.62
+"Correas, cadenas, rodillos",Aplicaciones en Motores,síntoma,74,51.03
+Accesorios para coches,Dispositivos de Monitoreo Vehicular,tacógrafo,4,60.0
+Accesorios para coches,Dispositivos de Monitoreo Vehicular,tacógrafo digital,4,56.7
+Accesorios para coches,Sistemas de Antenas Automotrices,taladradora,2,49.62
+Accesorios para coches,Sistemas de Antenas Automotrices,tecnología,19,57.88
+Accesorios para coches,Dispositivos de Monitoreo Vehicular,tecnologías de la información y la comunicación,2,38.1
+Aceite de motor,Temperatura del Aceite,tecnologías emergentes,1,19.58
+Accesorios para coches,Dispositivos de Monitoreo Vehicular,telemetría,2,32.25
+Accesorios para coches,Dispositivos de Monitoreo Vehicular,teléfono inteligente,2,58.9
+Aceite de motor,Uso de Aditivos,temperatura,90,46.25
+Aire acondicionado,Diagnóstico del Sistema,temperatura ambiente,2,22.73
+Encendido y precalentamiento,Bujías de Precalentamiento y Tipos,temperatura de funcionamiento,2,41.72
+Accesorios para coches,Dispositivos de Monitoreo Vehicular,tempo,8,52.88
+Encendido y precalentamiento,Módulos y Componentes de Precalentamiento,tensión (electricidad),37,55.47
+Aire acondicionado,Diagnóstico del Sistema,termodinámica,2,51.7
+Aceite de motor,Temperatura del Aceite,termorregulación,5,41.56
+Aire acondicionado,Diagnóstico del Sistema,termostato,2,52.03
+Aire acondicionado,Diagnóstico del Sistema,termómetro,2,41.56
+Carrocería,Estructuras de Vidrio Automotriz,teu (unidad de medida),5,25.58
+Aire acondicionado,Diagnóstico del Sistema,tibia,1,24.16
+Accesorios para coches,Sistemas de Antenas Automotrices,tiempo real,8,38.78
+Accesorios para coches,Sistemas de Antenas Automotrices,tipo de carrocería,4,54.4
+Accesorios para coches,Sistemas de Antenas Automotrices,todoterreno,1,47.62
+Accesorios para coches,Sistemas de Antenas Automotrices,toma de decisiones,4,49.03
+Accesorios para coches,Sistemas de Antenas Automotrices,tornillo,8,61.44
+Caja de cambios,Funcionalidad de Palancas,tracción,15,35.22
+Aire acondicionado,Diagnóstico del Sistema,transferencia de calor,2,42.9
+Caja de cambios,Clasificación de Transmisiones,transmisión (vehículos),3,82.94
+Caja de cambios,Funcionalidad de Palancas,transmisión automática,18,66.25
+Accesorios para coches,Sistemas de Antenas Automotrices,transmisión digital de audio,2,61.88
+Caja de cambios,Funcionalidad de Palancas,transmisión manual,10,71.8
+Caja de cambios,Funcionalidad de Palancas,transmisión mecánica,18,71.94
+Caja de cambios,Funcionalidad de Palancas,transmisión variable continua,7,70.1
+Accesorios para coches,Dispositivos de Monitoreo Vehicular,transparencia política,1,35.94
+Carrocería,Elementos de Seguridad Estructural,transporte,6,62.47
+Accesorios para coches,Historial y Mantenimiento de Vehículos,turbocompresor,3,76.1
+Accesorios para coches,Dispositivos de Monitoreo Vehicular,unidad de masa atómica,1,56.12
+Accesorios para coches,Dispositivos de Monitoreo Vehicular,universal serial bus,1,35.75
+Caja de cambios,Clasificación de Transmisiones,usabilidad,3,73.6
+Carrocería,Elementos de Seguridad Estructural,usuario (informática),8,54.8
+Aire acondicionado,Diagnóstico del Sistema,vacío,2,38.2
+Amortiguación,Componentes de Amortiguación Silenciosa,vaina (munición),1,47.9
+Aire acondicionado,Garantías y Repuestos,valor agregado,1,72.56
+Aceites y líquidos,Evaluación de Líquidos de Frenos,vapor (estado),4,42.2
+Calefacción y ventilación,Control de Temperatura Automotriz,vapor de agua,1,61.9
+Aceite de motor,Uso de Aditivos,vehículo,139,34.7
+Caja de cambios,Clasificación de Transmisiones,vehículo autónomo,3,76.8
+Accesorios para coches,Dispositivos de Monitoreo Vehicular,vehículo comercial ligero,1,30.22
+Accesorios para coches,Soluciones de Purificación de Aire,vehículo eléctrico,6,67.1
+Accesorios para coches,Historial y Mantenimiento de Vehículos,vehículo híbrido,3,71.4
+Accesorios para coches,Sistemas de Antenas Automotrices,vehículo todoterreno,3,49.8
+Caja de cambios,Funcionalidad de Palancas,velocidad,19,39.5
+Calefacción y ventilación,Control de Temperatura Automotriz,ventilación (arquitectura),2,49.72
+Aire acondicionado,Diagnóstico del Sistema,ventilador,2,52.12
+Accesorios para coches,Sistemas de Antenas Automotrices,vibración,38,44.2
+Aceite de motor,Uso de Aditivos,vida útil,90,44.72
+Accesorios para coches,Soluciones de Purificación de Aire,virus,1,39.38
+Aceite de motor,Uso de Aditivos,viscosidad,13,37.03
+Calefacción y ventilación,Control de Temperatura Automotriz,visibilidad,1,31.88
+Carrocería,Elementos de Seguridad Estructural,vuelco del vehículo,2,58.9
+"Correas, cadenas, rodillos",Aplicaciones en Motores,vulcanización,31,58.2
+Aire acondicionado,Diagnóstico del Sistema,válvula,2,38.3
+"Correas, cadenas, rodillos",Aplicaciones en Motores,válvula de asiento,31,61.9
+Aire acondicionado,Diagnóstico del Sistema,válvula de expansión,2,27.69
+Aire acondicionado,Mantenimiento del Compresor,válvula termoiónica,1,38.47
+Accesorios para coches,Historial y Mantenimiento de Vehículos,world wide web,2,44.2
+Aceite de motor,Uso de Aditivos,zinc,6,48.9
+Aire acondicionado,Diagnóstico del Sistema,zumbido,3,39.6
+Aceite de motor,Uso de Aditivos,ácido,6,44.56
+Aceite de motor,Uso de Aditivos,ácido orgánico,6,40.94
+Aire acondicionado,Diagnóstico del Sistema,índice gwp,1,48.88
