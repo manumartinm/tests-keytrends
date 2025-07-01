@@ -4,14 +4,14 @@ import plotly.express as px
 import numpy as np
 from sklearn.preprocessing import MinMaxScaler
 
-df_full = pd.read_csv("data/full_matrix.csv")
+df_full = pd.read_csv("data/full_matrix.csv", sep='\t', encoding='utf-8')
 df_priority = pd.read_csv("data/priority.csv")
 
-df_full['priority'] = df_full['priority'].fillna(False)
 df_priority['priority'] = df_priority['priority'].astype('boolean').fillna(False)
 
 df_full = df_full.merge(df_priority, on='subcatg', how='left', suffixes=('', '_y'))
 df_full['TA_score'] = df_full['TA_score'].astype(float)
+df_full['priority'] = df_full['priority'].fillna(False)
 
 treemap_colors = {
     "treemap_good": "#059669",

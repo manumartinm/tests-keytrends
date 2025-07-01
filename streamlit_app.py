@@ -4,10 +4,9 @@ import plotly.express as px
 import numpy as np
 from sklearn.preprocessing import MinMaxScaler
 
-df_full = pd.read_csv("data/grouped_matrix.csv")
+df_full = pd.read_csv("data/grouped_matrix.csv", sep=',', encoding='utf-8')
 df_priority = pd.read_csv("data/priority.csv")
 
-df_full['priority'] = df_full['priority'].fillna(False)
 df_priority['priority'] = df_priority['priority'].astype('boolean').fillna(False)
 
 agg_column = 'count'
@@ -24,6 +23,7 @@ epsilon = 1e-6
 df_grouped['count_scaled'] = MinMaxScaler().fit_transform(df_grouped[['count_log']]) + epsilon
 
 df_grouped = df_grouped.merge(df_priority, on='subcatg', how='left', suffixes=('', '_y'))
+df_grouped['priority'] = df_grouped['priority'].fillna(False)
 df_grouped['priority'] = df_grouped['priority'].astype(bool)
 
 treemap_colors = {
