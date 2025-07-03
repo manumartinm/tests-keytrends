@@ -1,11 +1,32 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
+import os
 import numpy as np
 from sklearn.preprocessing import MinMaxScaler
 
-df_full = pd.read_csv("data/grouped_matrix.csv", sep=',', encoding='utf-8')
-df_priority = pd.read_csv("data/priority.csv")
+st.title("Entities Trends Treemap")
+
+data_folder = "data"
+subfolders = [f.name for f in os.scandir(data_folder) if f.is_dir()]
+
+if not subfolders:
+    st.error("No hay subcarpetas dentro de la carpeta 'data'.")
+    st.stop()
+
+selected_subfolder = st.selectbox("Selecciona una carpeta de datos:", subfolders, index=0)
+
+# Construir rutas a los CSV dentro de la carpeta seleccionada
+folder_path = os.path.join(data_folder, selected_subfolder)
+full_matrix_path = os.path.join(folder_path, "grouped_matrix.csv")
+priority_path = os.path.join(folder_path, "priority.csv")
+
+try:
+    df_full = pd.read_csv(full_matrix_path, sep=',', encoding='utf-8')
+    df_priority = pd.read_csv(priority_path)
+except FileNotFoundError:
+    st.error("No se encontraron los archivos CSV requeridos en la carpeta seleccionada.")
+    st.stop()
 
 df_priority['priority'] = df_priority['priority'].astype('boolean').fillna(False)
 
@@ -56,7 +77,6 @@ def treemap(selected_value, df):
     fig.update_traces(marker=dict(cornerradius=5), root_color="lightgrey")
     return fig
 
-st.title("Entities Trends Treemap")
 
 show_priority_only = st.checkbox("Mostrar solo subcategorías priorizadas", value=False)
 
