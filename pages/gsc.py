@@ -31,7 +31,7 @@ except FileNotFoundError:
 df_priority['priority'] = df_priority['priority'].astype('boolean').fillna(False)
 
 df_full = df_full.merge(df_priority, on='subcatg', how='left', suffixes=('', '_y'))
-df_full['TA_score'] = df_full['TA_score'].astype(float)
+df_full['GSC_score'] = df_full['GSC_score'].astype(float)
 df_full['priority'] = df_full['priority'].fillna(False)
 
 treemap_colors = {
@@ -91,7 +91,7 @@ df_grouped = (
     .groupby(['catg', 'subcatg', 'query'], as_index=False)
     .agg({
         metric_column: 'mean',
-        'TA_score': 'mean'
+        'GSC_score': 'mean'
     })
 )
 
